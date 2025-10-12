@@ -1,0 +1,71 @@
+[
+    {
+        "nombre": "Iron Man",
+        "poderes": [{"nombre": "Vuelo"}],
+        "equipo": "Avengers",
+        "tecnologia": "Armadura Mark 85"
+    },
+    {
+        "nombre": "Superman",
+        "poderes": [{"nombre": "Super fuerza"}, {"nombre": "Vuelo"}],
+        "origen": "Krypton",
+        "debilidades": ["Kryptonita"]
+    },
+    {
+        "nombre": "Spider-Man",
+        "poderes": [{"nombre": "Sentido arácnido"}, {"nombre": "Trepar muros"}, {"nombre": "Lanzar telarañas"}],
+        "mentor": "Iron Man",
+        "edad": 18
+    },
+    {
+        "nombre": "Wonder Woman",
+        "poderes": [{"nombre": "Super fuerza"}, {"nombre": "Agilidad"}, {"nombre": "Lazo de la verdad"}],
+        "origen": "Themyscira"
+    },
+    {
+        "nombre": "Batman",
+        "poderes": [{"nombre": "Inteligencia"}, {"nombre": "Habilidad de combate"}],
+        "vehiculos": ["Batimóvil", "Batiplano"]
+    },
+    {
+        "nombre": "Thor",
+        "poderes": [{"nombre": "Control del trueno"}, {"nombre": "Vuelo"}],
+        "arma": "Mjolnir",
+        "reino": "Asgard"
+    },
+    {
+        "nombre": "Flash",
+        "poderes": [{"nombre": "Velocidad"}, {"nombre": "Viaje en el tiempo"}],
+        "universo": "DC"
+    },
+    {
+        "nombre": "Doctor Strange",
+        "poderes": [{"nombre": "Magia"}, {"nombre": "Portales"}, {"nombre": "Manipulación del tiempo"}],
+        "ocupacion": "Hechicero Supremo"
+    },
+    {
+        "nombre": "Hulk",
+        "poderes": [{"nombre": "Super fuerza"}, {"nombre": "Regeneración"}],
+        "personalidad": {"normal": "Bruce Banner", "transformado": "Hulk"}
+    },
+    {
+        "nombre": "Scarlet Witch",
+        "poderes": [{"nombre": "Magia del caos"}, {"nombre": "Telequinesis"}, {"nombre": "Manipulación de la realidad"}],
+        "universo": "Marvel",
+        "estado": "Inestable"
+    },
+    {
+        "nombre": "Black Panther",
+        "poderes": [{"nombre": "Agilidad"}, {"nombre": "Sentidos agudos"}],
+        "reino": "Wakanda",
+        "traje": {"material": "Vibranium", "color": "Negro"}
+    },
+    {
+        "nombre": "Green Lantern",
+        "poderes": [{"nombre": "Creación de objetos con energía"}, {"nombre": "Vuelo"}],
+        "fuente_poder": "Anillo",
+        "sector": 2814
+    }
+]
+
+
