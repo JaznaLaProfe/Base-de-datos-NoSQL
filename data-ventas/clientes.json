@@ -1,0 +1,3502 @@
+[
+  {
+    "_id": "cli_0000",
+    "nombre": "Cliente 0",
+    "email": "cliente0@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-07-11T03:10:35"
+  },
+  {
+    "_id": "cli_0001",
+    "nombre": "Cliente 1",
+    "email": "cliente1@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-07-23T03:29:15"
+  },
+  {
+    "_id": "cli_0002",
+    "nombre": "Cliente 2",
+    "email": "cliente2@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-02-12T20:50:33"
+  },
+  {
+    "_id": "cli_0003",
+    "nombre": "Cliente 3",
+    "email": "cliente3@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-06-08T06:12:51"
+  },
+  {
+    "_id": "cli_0004",
+    "nombre": "Cliente 4",
+    "email": "cliente4@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-12-20T20:46:47"
+  },
+  {
+    "_id": "cli_0005",
+    "nombre": "Cliente 5",
+    "email": "cliente5@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-06-23T06:37:49"
+  },
+  {
+    "_id": "cli_0006",
+    "nombre": "Cliente 6",
+    "email": "cliente6@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-03-27T12:55:01"
+  },
+  {
+    "_id": "cli_0007",
+    "nombre": "Cliente 7",
+    "email": "cliente7@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-08-25T09:44:05"
+  },
+  {
+    "_id": "cli_0008",
+    "nombre": "Cliente 8",
+    "email": "cliente8@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-06-14T19:12:11"
+  },
+  {
+    "_id": "cli_0009",
+    "nombre": "Cliente 9",
+    "email": "cliente9@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-04-02T10:49:35"
+  },
+  {
+    "_id": "cli_0010",
+    "nombre": "Cliente 10",
+    "email": "cliente10@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-01-27T11:03:53"
+  },
+  {
+    "_id": "cli_0011",
+    "nombre": "Cliente 11",
+    "email": "cliente11@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-09-21T13:52:15"
+  },
+  {
+    "_id": "cli_0012",
+    "nombre": "Cliente 12",
+    "email": "cliente12@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-03-17T19:48:24"
+  },
+  {
+    "_id": "cli_0013",
+    "nombre": "Cliente 13",
+    "email": "cliente13@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-02-22T10:35:04"
+  },
+  {
+    "_id": "cli_0014",
+    "nombre": "Cliente 14",
+    "email": "cliente14@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-07-12T15:06:13"
+  },
+  {
+    "_id": "cli_0015",
+    "nombre": "Cliente 15",
+    "email": "cliente15@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-03-27T08:45:41"
+  },
+  {
+    "_id": "cli_0016",
+    "nombre": "Cliente 16",
+    "email": "cliente16@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-09-05T06:38:23"
+  },
+  {
+    "_id": "cli_0017",
+    "nombre": "Cliente 17",
+    "email": "cliente17@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-11-21T16:13:54"
+  },
+  {
+    "_id": "cli_0018",
+    "nombre": "Cliente 18",
+    "email": "cliente18@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-06-29T13:07:53"
+  },
+  {
+    "_id": "cli_0019",
+    "nombre": "Cliente 19",
+    "email": "cliente19@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-08-04T03:34:12"
+  },
+  {
+    "_id": "cli_0020",
+    "nombre": "Cliente 20",
+    "email": "cliente20@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-11-26T02:33:51"
+  },
+  {
+    "_id": "cli_0021",
+    "nombre": "Cliente 21",
+    "email": "cliente21@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-04-25T17:00:30"
+  },
+  {
+    "_id": "cli_0022",
+    "nombre": "Cliente 22",
+    "email": "cliente22@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-03-24T22:16:30"
+  },
+  {
+    "_id": "cli_0023",
+    "nombre": "Cliente 23",
+    "email": "cliente23@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-04-10T01:29:15"
+  },
+  {
+    "_id": "cli_0024",
+    "nombre": "Cliente 24",
+    "email": "cliente24@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-05-11T07:29:56"
+  },
+  {
+    "_id": "cli_0025",
+    "nombre": "Cliente 25",
+    "email": "cliente25@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-05-09T05:48:53"
+  },
+  {
+    "_id": "cli_0026",
+    "nombre": "Cliente 26",
+    "email": "cliente26@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-10-24T19:53:45"
+  },
+  {
+    "_id": "cli_0027",
+    "nombre": "Cliente 27",
+    "email": "cliente27@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-12-23T18:41:03"
+  },
+  {
+    "_id": "cli_0028",
+    "nombre": "Cliente 28",
+    "email": "cliente28@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-07-12T09:41:02"
+  },
+  {
+    "_id": "cli_0029",
+    "nombre": "Cliente 29",
+    "email": "cliente29@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-03-31T00:47:22"
+  },
+  {
+    "_id": "cli_0030",
+    "nombre": "Cliente 30",
+    "email": "cliente30@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-04-13T07:44:25"
+  },
+  {
+    "_id": "cli_0031",
+    "nombre": "Cliente 31",
+    "email": "cliente31@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-01-23T21:23:15"
+  },
+  {
+    "_id": "cli_0032",
+    "nombre": "Cliente 32",
+    "email": "cliente32@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-04-14T11:36:04"
+  },
+  {
+    "_id": "cli_0033",
+    "nombre": "Cliente 33",
+    "email": "cliente33@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-11-14T17:10:12"
+  },
+  {
+    "_id": "cli_0034",
+    "nombre": "Cliente 34",
+    "email": "cliente34@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-05-24T00:05:54"
+  },
+  {
+    "_id": "cli_0035",
+    "nombre": "Cliente 35",
+    "email": "cliente35@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-08-28T05:03:28"
+  },
+  {
+    "_id": "cli_0036",
+    "nombre": "Cliente 36",
+    "email": "cliente36@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-02-09T08:39:03"
+  },
+  {
+    "_id": "cli_0037",
+    "nombre": "Cliente 37",
+    "email": "cliente37@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-04-08T08:18:05"
+  },
+  {
+    "_id": "cli_0038",
+    "nombre": "Cliente 38",
+    "email": "cliente38@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-02-17T19:40:42"
+  },
+  {
+    "_id": "cli_0039",
+    "nombre": "Cliente 39",
+    "email": "cliente39@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-09-30T06:10:12"
+  },
+  {
+    "_id": "cli_0040",
+    "nombre": "Cliente 40",
+    "email": "cliente40@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-05-16T14:14:12"
+  },
+  {
+    "_id": "cli_0041",
+    "nombre": "Cliente 41",
+    "email": "cliente41@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-08-01T00:14:09"
+  },
+  {
+    "_id": "cli_0042",
+    "nombre": "Cliente 42",
+    "email": "cliente42@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-09-20T15:29:12"
+  },
+  {
+    "_id": "cli_0043",
+    "nombre": "Cliente 43",
+    "email": "cliente43@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-09-24T16:58:03"
+  },
+  {
+    "_id": "cli_0044",
+    "nombre": "Cliente 44",
+    "email": "cliente44@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-01-09T16:17:29"
+  },
+  {
+    "_id": "cli_0045",
+    "nombre": "Cliente 45",
+    "email": "cliente45@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-12-12T14:56:31"
+  },
+  {
+    "_id": "cli_0046",
+    "nombre": "Cliente 46",
+    "email": "cliente46@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-07-24T01:47:26"
+  },
+  {
+    "_id": "cli_0047",
+    "nombre": "Cliente 47",
+    "email": "cliente47@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-07-01T19:28:25"
+  },
+  {
+    "_id": "cli_0048",
+    "nombre": "Cliente 48",
+    "email": "cliente48@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-03-27T05:18:29"
+  },
+  {
+    "_id": "cli_0049",
+    "nombre": "Cliente 49",
+    "email": "cliente49@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-09-13T11:46:21"
+  },
+  {
+    "_id": "cli_0050",
+    "nombre": "Cliente 50",
+    "email": "cliente50@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-02-17T05:50:20"
+  },
+  {
+    "_id": "cli_0051",
+    "nombre": "Cliente 51",
+    "email": "cliente51@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-08-08T21:17:26"
+  },
+  {
+    "_id": "cli_0052",
+    "nombre": "Cliente 52",
+    "email": "cliente52@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-07-10T16:07:06"
+  },
+  {
+    "_id": "cli_0053",
+    "nombre": "Cliente 53",
+    "email": "cliente53@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-03-17T19:19:10"
+  },
+  {
+    "_id": "cli_0054",
+    "nombre": "Cliente 54",
+    "email": "cliente54@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-03-21T10:09:55"
+  },
+  {
+    "_id": "cli_0055",
+    "nombre": "Cliente 55",
+    "email": "cliente55@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-03-09T12:01:40"
+  },
+  {
+    "_id": "cli_0056",
+    "nombre": "Cliente 56",
+    "email": "cliente56@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-07-28T06:29:19"
+  },
+  {
+    "_id": "cli_0057",
+    "nombre": "Cliente 57",
+    "email": "cliente57@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-10-04T07:11:57"
+  },
+  {
+    "_id": "cli_0058",
+    "nombre": "Cliente 58",
+    "email": "cliente58@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-10-18T20:31:03"
+  },
+  {
+    "_id": "cli_0059",
+    "nombre": "Cliente 59",
+    "email": "cliente59@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-03-04T04:50:10"
+  },
+  {
+    "_id": "cli_0060",
+    "nombre": "Cliente 60",
+    "email": "cliente60@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-05-19T09:04:38"
+  },
+  {
+    "_id": "cli_0061",
+    "nombre": "Cliente 61",
+    "email": "cliente61@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-12-30T01:35:08"
+  },
+  {
+    "_id": "cli_0062",
+    "nombre": "Cliente 62",
+    "email": "cliente62@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-09-20T12:08:28"
+  },
+  {
+    "_id": "cli_0063",
+    "nombre": "Cliente 63",
+    "email": "cliente63@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-07-04T20:57:10"
+  },
+  {
+    "_id": "cli_0064",
+    "nombre": "Cliente 64",
+    "email": "cliente64@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-12-17T06:12:58"
+  },
+  {
+    "_id": "cli_0065",
+    "nombre": "Cliente 65",
+    "email": "cliente65@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-09-15T13:51:11"
+  },
+  {
+    "_id": "cli_0066",
+    "nombre": "Cliente 66",
+    "email": "cliente66@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-01-14T04:17:12"
+  },
+  {
+    "_id": "cli_0067",
+    "nombre": "Cliente 67",
+    "email": "cliente67@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-02-13T09:07:33"
+  },
+  {
+    "_id": "cli_0068",
+    "nombre": "Cliente 68",
+    "email": "cliente68@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-10-24T08:29:27"
+  },
+  {
+    "_id": "cli_0069",
+    "nombre": "Cliente 69",
+    "email": "cliente69@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-12-26T23:14:30"
+  },
+  {
+    "_id": "cli_0070",
+    "nombre": "Cliente 70",
+    "email": "cliente70@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-11-05T20:51:30"
+  },
+  {
+    "_id": "cli_0071",
+    "nombre": "Cliente 71",
+    "email": "cliente71@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-07-09T23:20:29"
+  },
+  {
+    "_id": "cli_0072",
+    "nombre": "Cliente 72",
+    "email": "cliente72@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-02-13T06:42:37"
+  },
+  {
+    "_id": "cli_0073",
+    "nombre": "Cliente 73",
+    "email": "cliente73@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-05-27T09:03:18"
+  },
+  {
+    "_id": "cli_0074",
+    "nombre": "Cliente 74",
+    "email": "cliente74@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-07-19T11:58:56"
+  },
+  {
+    "_id": "cli_0075",
+    "nombre": "Cliente 75",
+    "email": "cliente75@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-05-01T06:53:38"
+  },
+  {
+    "_id": "cli_0076",
+    "nombre": "Cliente 76",
+    "email": "cliente76@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-06-25T22:36:22"
+  },
+  {
+    "_id": "cli_0077",
+    "nombre": "Cliente 77",
+    "email": "cliente77@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-04-23T00:49:57"
+  },
+  {
+    "_id": "cli_0078",
+    "nombre": "Cliente 78",
+    "email": "cliente78@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-03-11T03:17:49"
+  },
+  {
+    "_id": "cli_0079",
+    "nombre": "Cliente 79",
+    "email": "cliente79@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-12-21T23:31:28"
+  },
+  {
+    "_id": "cli_0080",
+    "nombre": "Cliente 80",
+    "email": "cliente80@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-09-29T19:41:24"
+  },
+  {
+    "_id": "cli_0081",
+    "nombre": "Cliente 81",
+    "email": "cliente81@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-05-17T09:39:18"
+  },
+  {
+    "_id": "cli_0082",
+    "nombre": "Cliente 82",
+    "email": "cliente82@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-09-13T00:23:15"
+  },
+  {
+    "_id": "cli_0083",
+    "nombre": "Cliente 83",
+    "email": "cliente83@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-11-23T09:53:26"
+  },
+  {
+    "_id": "cli_0084",
+    "nombre": "Cliente 84",
+    "email": "cliente84@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-03-08T23:47:36"
+  },
+  {
+    "_id": "cli_0085",
+    "nombre": "Cliente 85",
+    "email": "cliente85@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-08-03T06:08:55"
+  },
+  {
+    "_id": "cli_0086",
+    "nombre": "Cliente 86",
+    "email": "cliente86@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-09-17T11:50:23"
+  },
+  {
+    "_id": "cli_0087",
+    "nombre": "Cliente 87",
+    "email": "cliente87@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-07-16T08:15:33"
+  },
+  {
+    "_id": "cli_0088",
+    "nombre": "Cliente 88",
+    "email": "cliente88@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-12-10T12:17:19"
+  },
+  {
+    "_id": "cli_0089",
+    "nombre": "Cliente 89",
+    "email": "cliente89@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-03-30T21:34:15"
+  },
+  {
+    "_id": "cli_0090",
+    "nombre": "Cliente 90",
+    "email": "cliente90@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-03-27T21:42:19"
+  },
+  {
+    "_id": "cli_0091",
+    "nombre": "Cliente 91",
+    "email": "cliente91@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-11-12T05:41:58"
+  },
+  {
+    "_id": "cli_0092",
+    "nombre": "Cliente 92",
+    "email": "cliente92@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-03-27T23:31:48"
+  },
+  {
+    "_id": "cli_0093",
+    "nombre": "Cliente 93",
+    "email": "cliente93@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-07-14T21:25:24"
+  },
+  {
+    "_id": "cli_0094",
+    "nombre": "Cliente 94",
+    "email": "cliente94@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-04-02T22:12:00"
+  },
+  {
+    "_id": "cli_0095",
+    "nombre": "Cliente 95",
+    "email": "cliente95@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-01-19T00:39:48"
+  },
+  {
+    "_id": "cli_0096",
+    "nombre": "Cliente 96",
+    "email": "cliente96@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-11-24T10:13:33"
+  },
+  {
+    "_id": "cli_0097",
+    "nombre": "Cliente 97",
+    "email": "cliente97@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-07-12T09:34:04"
+  },
+  {
+    "_id": "cli_0098",
+    "nombre": "Cliente 98",
+    "email": "cliente98@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-07-12T22:52:05"
+  },
+  {
+    "_id": "cli_0099",
+    "nombre": "Cliente 99",
+    "email": "cliente99@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-01-21T04:26:39"
+  },
+  {
+    "_id": "cli_0100",
+    "nombre": "Cliente 100",
+    "email": "cliente100@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-03-10T05:12:05"
+  },
+  {
+    "_id": "cli_0101",
+    "nombre": "Cliente 101",
+    "email": "cliente101@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-02-10T02:13:29"
+  },
+  {
+    "_id": "cli_0102",
+    "nombre": "Cliente 102",
+    "email": "cliente102@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-06-29T11:50:53"
+  },
+  {
+    "_id": "cli_0103",
+    "nombre": "Cliente 103",
+    "email": "cliente103@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-08-14T22:48:55"
+  },
+  {
+    "_id": "cli_0104",
+    "nombre": "Cliente 104",
+    "email": "cliente104@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-05-04T01:00:21"
+  },
+  {
+    "_id": "cli_0105",
+    "nombre": "Cliente 105",
+    "email": "cliente105@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-12-17T19:47:53"
+  },
+  {
+    "_id": "cli_0106",
+    "nombre": "Cliente 106",
+    "email": "cliente106@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-09-13T10:23:26"
+  },
+  {
+    "_id": "cli_0107",
+    "nombre": "Cliente 107",
+    "email": "cliente107@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-10-17T13:07:41"
+  },
+  {
+    "_id": "cli_0108",
+    "nombre": "Cliente 108",
+    "email": "cliente108@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-07-14T10:53:20"
+  },
+  {
+    "_id": "cli_0109",
+    "nombre": "Cliente 109",
+    "email": "cliente109@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-12-06T01:04:44"
+  },
+  {
+    "_id": "cli_0110",
+    "nombre": "Cliente 110",
+    "email": "cliente110@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-01-09T21:59:02"
+  },
+  {
+    "_id": "cli_0111",
+    "nombre": "Cliente 111",
+    "email": "cliente111@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-09-09T19:35:01"
+  },
+  {
+    "_id": "cli_0112",
+    "nombre": "Cliente 112",
+    "email": "cliente112@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-11-05T15:29:59"
+  },
+  {
+    "_id": "cli_0113",
+    "nombre": "Cliente 113",
+    "email": "cliente113@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-03-16T18:30:54"
+  },
+  {
+    "_id": "cli_0114",
+    "nombre": "Cliente 114",
+    "email": "cliente114@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-03-22T02:54:55"
+  },
+  {
+    "_id": "cli_0115",
+    "nombre": "Cliente 115",
+    "email": "cliente115@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-10-08T06:30:45"
+  },
+  {
+    "_id": "cli_0116",
+    "nombre": "Cliente 116",
+    "email": "cliente116@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-02-01T13:33:54"
+  },
+  {
+    "_id": "cli_0117",
+    "nombre": "Cliente 117",
+    "email": "cliente117@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-02-18T06:20:59"
+  },
+  {
+    "_id": "cli_0118",
+    "nombre": "Cliente 118",
+    "email": "cliente118@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-02-08T05:54:29"
+  },
+  {
+    "_id": "cli_0119",
+    "nombre": "Cliente 119",
+    "email": "cliente119@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-07-03T16:33:44"
+  },
+  {
+    "_id": "cli_0120",
+    "nombre": "Cliente 120",
+    "email": "cliente120@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-10-06T06:44:38"
+  },
+  {
+    "_id": "cli_0121",
+    "nombre": "Cliente 121",
+    "email": "cliente121@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-01-09T03:38:39"
+  },
+  {
+    "_id": "cli_0122",
+    "nombre": "Cliente 122",
+    "email": "cliente122@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-06-13T22:04:01"
+  },
+  {
+    "_id": "cli_0123",
+    "nombre": "Cliente 123",
+    "email": "cliente123@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-04-12T16:56:55"
+  },
+  {
+    "_id": "cli_0124",
+    "nombre": "Cliente 124",
+    "email": "cliente124@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-11-20T12:10:05"
+  },
+  {
+    "_id": "cli_0125",
+    "nombre": "Cliente 125",
+    "email": "cliente125@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-03-16T15:06:37"
+  },
+  {
+    "_id": "cli_0126",
+    "nombre": "Cliente 126",
+    "email": "cliente126@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-05-06T06:13:02"
+  },
+  {
+    "_id": "cli_0127",
+    "nombre": "Cliente 127",
+    "email": "cliente127@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-09-27T03:51:20"
+  },
+  {
+    "_id": "cli_0128",
+    "nombre": "Cliente 128",
+    "email": "cliente128@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-07-27T08:53:29"
+  },
+  {
+    "_id": "cli_0129",
+    "nombre": "Cliente 129",
+    "email": "cliente129@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-01-08T17:57:29"
+  },
+  {
+    "_id": "cli_0130",
+    "nombre": "Cliente 130",
+    "email": "cliente130@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-01-01T01:56:32"
+  },
+  {
+    "_id": "cli_0131",
+    "nombre": "Cliente 131",
+    "email": "cliente131@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-06-16T11:45:49"
+  },
+  {
+    "_id": "cli_0132",
+    "nombre": "Cliente 132",
+    "email": "cliente132@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-09-05T05:37:03"
+  },
+  {
+    "_id": "cli_0133",
+    "nombre": "Cliente 133",
+    "email": "cliente133@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-03-22T13:59:23"
+  },
+  {
+    "_id": "cli_0134",
+    "nombre": "Cliente 134",
+    "email": "cliente134@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-06-29T20:54:32"
+  },
+  {
+    "_id": "cli_0135",
+    "nombre": "Cliente 135",
+    "email": "cliente135@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-01-28T08:31:14"
+  },
+  {
+    "_id": "cli_0136",
+    "nombre": "Cliente 136",
+    "email": "cliente136@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-03-26T21:50:42"
+  },
+  {
+    "_id": "cli_0137",
+    "nombre": "Cliente 137",
+    "email": "cliente137@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-09-07T05:37:17"
+  },
+  {
+    "_id": "cli_0138",
+    "nombre": "Cliente 138",
+    "email": "cliente138@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-03-17T19:53:19"
+  },
+  {
+    "_id": "cli_0139",
+    "nombre": "Cliente 139",
+    "email": "cliente139@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-09-09T20:47:12"
+  },
+  {
+    "_id": "cli_0140",
+    "nombre": "Cliente 140",
+    "email": "cliente140@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-04-05T09:57:23"
+  },
+  {
+    "_id": "cli_0141",
+    "nombre": "Cliente 141",
+    "email": "cliente141@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-10-08T08:43:38"
+  },
+  {
+    "_id": "cli_0142",
+    "nombre": "Cliente 142",
+    "email": "cliente142@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-04-26T14:30:23"
+  },
+  {
+    "_id": "cli_0143",
+    "nombre": "Cliente 143",
+    "email": "cliente143@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-04-27T14:37:54"
+  },
+  {
+    "_id": "cli_0144",
+    "nombre": "Cliente 144",
+    "email": "cliente144@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-04-24T11:00:52"
+  },
+  {
+    "_id": "cli_0145",
+    "nombre": "Cliente 145",
+    "email": "cliente145@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-04-09T06:00:44"
+  },
+  {
+    "_id": "cli_0146",
+    "nombre": "Cliente 146",
+    "email": "cliente146@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-10-24T17:36:19"
+  },
+  {
+    "_id": "cli_0147",
+    "nombre": "Cliente 147",
+    "email": "cliente147@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-05-11T14:20:40"
+  },
+  {
+    "_id": "cli_0148",
+    "nombre": "Cliente 148",
+    "email": "cliente148@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-02-06T05:26:19"
+  },
+  {
+    "_id": "cli_0149",
+    "nombre": "Cliente 149",
+    "email": "cliente149@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-08-10T08:35:18"
+  },
+  {
+    "_id": "cli_0150",
+    "nombre": "Cliente 150",
+    "email": "cliente150@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-07-18T23:54:49"
+  },
+  {
+    "_id": "cli_0151",
+    "nombre": "Cliente 151",
+    "email": "cliente151@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-04-12T18:16:58"
+  },
+  {
+    "_id": "cli_0152",
+    "nombre": "Cliente 152",
+    "email": "cliente152@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-05-16T01:28:02"
+  },
+  {
+    "_id": "cli_0153",
+    "nombre": "Cliente 153",
+    "email": "cliente153@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-04-12T15:41:11"
+  },
+  {
+    "_id": "cli_0154",
+    "nombre": "Cliente 154",
+    "email": "cliente154@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-03-12T04:07:42"
+  },
+  {
+    "_id": "cli_0155",
+    "nombre": "Cliente 155",
+    "email": "cliente155@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-09-20T15:18:56"
+  },
+  {
+    "_id": "cli_0156",
+    "nombre": "Cliente 156",
+    "email": "cliente156@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-01-15T08:29:01"
+  },
+  {
+    "_id": "cli_0157",
+    "nombre": "Cliente 157",
+    "email": "cliente157@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-07-20T02:26:34"
+  },
+  {
+    "_id": "cli_0158",
+    "nombre": "Cliente 158",
+    "email": "cliente158@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-10-17T02:27:52"
+  },
+  {
+    "_id": "cli_0159",
+    "nombre": "Cliente 159",
+    "email": "cliente159@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-10-12T05:09:05"
+  },
+  {
+    "_id": "cli_0160",
+    "nombre": "Cliente 160",
+    "email": "cliente160@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-06-20T02:46:16"
+  },
+  {
+    "_id": "cli_0161",
+    "nombre": "Cliente 161",
+    "email": "cliente161@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-10-13T05:34:34"
+  },
+  {
+    "_id": "cli_0162",
+    "nombre": "Cliente 162",
+    "email": "cliente162@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-06-03T17:53:39"
+  },
+  {
+    "_id": "cli_0163",
+    "nombre": "Cliente 163",
+    "email": "cliente163@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-06-29T04:59:46"
+  },
+  {
+    "_id": "cli_0164",
+    "nombre": "Cliente 164",
+    "email": "cliente164@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-11-01T07:13:51"
+  },
+  {
+    "_id": "cli_0165",
+    "nombre": "Cliente 165",
+    "email": "cliente165@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-08-19T18:08:40"
+  },
+  {
+    "_id": "cli_0166",
+    "nombre": "Cliente 166",
+    "email": "cliente166@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-11-16T06:54:51"
+  },
+  {
+    "_id": "cli_0167",
+    "nombre": "Cliente 167",
+    "email": "cliente167@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-08-01T04:23:25"
+  },
+  {
+    "_id": "cli_0168",
+    "nombre": "Cliente 168",
+    "email": "cliente168@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-12-30T16:57:03"
+  },
+  {
+    "_id": "cli_0169",
+    "nombre": "Cliente 169",
+    "email": "cliente169@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-03-26T05:46:08"
+  },
+  {
+    "_id": "cli_0170",
+    "nombre": "Cliente 170",
+    "email": "cliente170@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-08-26T21:46:25"
+  },
+  {
+    "_id": "cli_0171",
+    "nombre": "Cliente 171",
+    "email": "cliente171@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-03-28T11:38:49"
+  },
+  {
+    "_id": "cli_0172",
+    "nombre": "Cliente 172",
+    "email": "cliente172@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-10-15T03:56:17"
+  },
+  {
+    "_id": "cli_0173",
+    "nombre": "Cliente 173",
+    "email": "cliente173@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-11-04T08:24:41"
+  },
+  {
+    "_id": "cli_0174",
+    "nombre": "Cliente 174",
+    "email": "cliente174@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-10-23T12:10:26"
+  },
+  {
+    "_id": "cli_0175",
+    "nombre": "Cliente 175",
+    "email": "cliente175@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-05-25T05:58:01"
+  },
+  {
+    "_id": "cli_0176",
+    "nombre": "Cliente 176",
+    "email": "cliente176@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-11-11T21:28:12"
+  },
+  {
+    "_id": "cli_0177",
+    "nombre": "Cliente 177",
+    "email": "cliente177@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-03-07T00:29:38"
+  },
+  {
+    "_id": "cli_0178",
+    "nombre": "Cliente 178",
+    "email": "cliente178@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-10-27T01:37:11"
+  },
+  {
+    "_id": "cli_0179",
+    "nombre": "Cliente 179",
+    "email": "cliente179@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-09-04T00:14:22"
+  },
+  {
+    "_id": "cli_0180",
+    "nombre": "Cliente 180",
+    "email": "cliente180@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-12-08T13:34:33"
+  },
+  {
+    "_id": "cli_0181",
+    "nombre": "Cliente 181",
+    "email": "cliente181@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-10-29T16:53:29"
+  },
+  {
+    "_id": "cli_0182",
+    "nombre": "Cliente 182",
+    "email": "cliente182@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-11-14T08:27:31"
+  },
+  {
+    "_id": "cli_0183",
+    "nombre": "Cliente 183",
+    "email": "cliente183@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-11-25T21:20:23"
+  },
+  {
+    "_id": "cli_0184",
+    "nombre": "Cliente 184",
+    "email": "cliente184@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-04-27T14:43:21"
+  },
+  {
+    "_id": "cli_0185",
+    "nombre": "Cliente 185",
+    "email": "cliente185@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-08-27T16:57:38"
+  },
+  {
+    "_id": "cli_0186",
+    "nombre": "Cliente 186",
+    "email": "cliente186@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-11-13T19:18:17"
+  },
+  {
+    "_id": "cli_0187",
+    "nombre": "Cliente 187",
+    "email": "cliente187@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-09-30T18:45:21"
+  },
+  {
+    "_id": "cli_0188",
+    "nombre": "Cliente 188",
+    "email": "cliente188@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-03-07T08:36:17"
+  },
+  {
+    "_id": "cli_0189",
+    "nombre": "Cliente 189",
+    "email": "cliente189@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-11-26T12:00:38"
+  },
+  {
+    "_id": "cli_0190",
+    "nombre": "Cliente 190",
+    "email": "cliente190@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-02-28T04:27:05"
+  },
+  {
+    "_id": "cli_0191",
+    "nombre": "Cliente 191",
+    "email": "cliente191@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-02-16T23:56:59"
+  },
+  {
+    "_id": "cli_0192",
+    "nombre": "Cliente 192",
+    "email": "cliente192@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-04-07T13:40:21"
+  },
+  {
+    "_id": "cli_0193",
+    "nombre": "Cliente 193",
+    "email": "cliente193@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-01-04T22:31:27"
+  },
+  {
+    "_id": "cli_0194",
+    "nombre": "Cliente 194",
+    "email": "cliente194@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-06-12T23:40:57"
+  },
+  {
+    "_id": "cli_0195",
+    "nombre": "Cliente 195",
+    "email": "cliente195@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-06-21T09:46:28"
+  },
+  {
+    "_id": "cli_0196",
+    "nombre": "Cliente 196",
+    "email": "cliente196@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-10-26T05:27:25"
+  },
+  {
+    "_id": "cli_0197",
+    "nombre": "Cliente 197",
+    "email": "cliente197@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-07-24T01:23:58"
+  },
+  {
+    "_id": "cli_0198",
+    "nombre": "Cliente 198",
+    "email": "cliente198@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-11-16T16:50:35"
+  },
+  {
+    "_id": "cli_0199",
+    "nombre": "Cliente 199",
+    "email": "cliente199@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-04-05T07:50:46"
+  },
+  {
+    "_id": "cli_0200",
+    "nombre": "Cliente 200",
+    "email": "cliente200@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-04-21T18:17:29"
+  },
+  {
+    "_id": "cli_0201",
+    "nombre": "Cliente 201",
+    "email": "cliente201@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-02-27T16:51:01"
+  },
+  {
+    "_id": "cli_0202",
+    "nombre": "Cliente 202",
+    "email": "cliente202@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-07-30T17:18:14"
+  },
+  {
+    "_id": "cli_0203",
+    "nombre": "Cliente 203",
+    "email": "cliente203@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-08-19T01:23:36"
+  },
+  {
+    "_id": "cli_0204",
+    "nombre": "Cliente 204",
+    "email": "cliente204@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-04-11T01:33:53"
+  },
+  {
+    "_id": "cli_0205",
+    "nombre": "Cliente 205",
+    "email": "cliente205@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-07-14T07:16:34"
+  },
+  {
+    "_id": "cli_0206",
+    "nombre": "Cliente 206",
+    "email": "cliente206@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-04-22T07:02:48"
+  },
+  {
+    "_id": "cli_0207",
+    "nombre": "Cliente 207",
+    "email": "cliente207@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-12-21T23:27:12"
+  },
+  {
+    "_id": "cli_0208",
+    "nombre": "Cliente 208",
+    "email": "cliente208@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-02-24T19:39:22"
+  },
+  {
+    "_id": "cli_0209",
+    "nombre": "Cliente 209",
+    "email": "cliente209@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-08-09T16:45:53"
+  },
+  {
+    "_id": "cli_0210",
+    "nombre": "Cliente 210",
+    "email": "cliente210@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-11-29T18:38:24"
+  },
+  {
+    "_id": "cli_0211",
+    "nombre": "Cliente 211",
+    "email": "cliente211@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-05-18T11:35:35"
+  },
+  {
+    "_id": "cli_0212",
+    "nombre": "Cliente 212",
+    "email": "cliente212@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-11-05T22:48:08"
+  },
+  {
+    "_id": "cli_0213",
+    "nombre": "Cliente 213",
+    "email": "cliente213@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-12-03T23:17:42"
+  },
+  {
+    "_id": "cli_0214",
+    "nombre": "Cliente 214",
+    "email": "cliente214@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-05-04T10:13:10"
+  },
+  {
+    "_id": "cli_0215",
+    "nombre": "Cliente 215",
+    "email": "cliente215@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-09-07T12:06:20"
+  },
+  {
+    "_id": "cli_0216",
+    "nombre": "Cliente 216",
+    "email": "cliente216@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-03-13T21:16:18"
+  },
+  {
+    "_id": "cli_0217",
+    "nombre": "Cliente 217",
+    "email": "cliente217@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-08-12T10:21:50"
+  },
+  {
+    "_id": "cli_0218",
+    "nombre": "Cliente 218",
+    "email": "cliente218@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-04-10T21:12:06"
+  },
+  {
+    "_id": "cli_0219",
+    "nombre": "Cliente 219",
+    "email": "cliente219@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-08-03T14:59:37"
+  },
+  {
+    "_id": "cli_0220",
+    "nombre": "Cliente 220",
+    "email": "cliente220@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-04-15T13:50:27"
+  },
+  {
+    "_id": "cli_0221",
+    "nombre": "Cliente 221",
+    "email": "cliente221@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-01-07T06:27:10"
+  },
+  {
+    "_id": "cli_0222",
+    "nombre": "Cliente 222",
+    "email": "cliente222@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-09-14T04:18:11"
+  },
+  {
+    "_id": "cli_0223",
+    "nombre": "Cliente 223",
+    "email": "cliente223@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-08-29T08:31:39"
+  },
+  {
+    "_id": "cli_0224",
+    "nombre": "Cliente 224",
+    "email": "cliente224@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-01-24T08:03:57"
+  },
+  {
+    "_id": "cli_0225",
+    "nombre": "Cliente 225",
+    "email": "cliente225@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-10-04T18:15:19"
+  },
+  {
+    "_id": "cli_0226",
+    "nombre": "Cliente 226",
+    "email": "cliente226@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-10-23T15:56:32"
+  },
+  {
+    "_id": "cli_0227",
+    "nombre": "Cliente 227",
+    "email": "cliente227@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-04-24T10:32:08"
+  },
+  {
+    "_id": "cli_0228",
+    "nombre": "Cliente 228",
+    "email": "cliente228@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-01-17T19:09:16"
+  },
+  {
+    "_id": "cli_0229",
+    "nombre": "Cliente 229",
+    "email": "cliente229@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-12-14T17:21:28"
+  },
+  {
+    "_id": "cli_0230",
+    "nombre": "Cliente 230",
+    "email": "cliente230@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-06-18T10:05:18"
+  },
+  {
+    "_id": "cli_0231",
+    "nombre": "Cliente 231",
+    "email": "cliente231@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-06-15T06:54:54"
+  },
+  {
+    "_id": "cli_0232",
+    "nombre": "Cliente 232",
+    "email": "cliente232@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-07-21T13:53:43"
+  },
+  {
+    "_id": "cli_0233",
+    "nombre": "Cliente 233",
+    "email": "cliente233@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-07-21T23:38:28"
+  },
+  {
+    "_id": "cli_0234",
+    "nombre": "Cliente 234",
+    "email": "cliente234@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-06-17T20:09:19"
+  },
+  {
+    "_id": "cli_0235",
+    "nombre": "Cliente 235",
+    "email": "cliente235@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-03-20T00:31:39"
+  },
+  {
+    "_id": "cli_0236",
+    "nombre": "Cliente 236",
+    "email": "cliente236@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-12-16T19:52:51"
+  },
+  {
+    "_id": "cli_0237",
+    "nombre": "Cliente 237",
+    "email": "cliente237@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-05-26T23:07:17"
+  },
+  {
+    "_id": "cli_0238",
+    "nombre": "Cliente 238",
+    "email": "cliente238@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-11-26T11:07:30"
+  },
+  {
+    "_id": "cli_0239",
+    "nombre": "Cliente 239",
+    "email": "cliente239@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-05-04T21:56:16"
+  },
+  {
+    "_id": "cli_0240",
+    "nombre": "Cliente 240",
+    "email": "cliente240@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-06-17T12:42:34"
+  },
+  {
+    "_id": "cli_0241",
+    "nombre": "Cliente 241",
+    "email": "cliente241@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-09-28T06:28:47"
+  },
+  {
+    "_id": "cli_0242",
+    "nombre": "Cliente 242",
+    "email": "cliente242@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-11-16T18:07:14"
+  },
+  {
+    "_id": "cli_0243",
+    "nombre": "Cliente 243",
+    "email": "cliente243@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-09-29T08:28:26"
+  },
+  {
+    "_id": "cli_0244",
+    "nombre": "Cliente 244",
+    "email": "cliente244@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-06-27T22:45:02"
+  },
+  {
+    "_id": "cli_0245",
+    "nombre": "Cliente 245",
+    "email": "cliente245@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-10-25T01:34:41"
+  },
+  {
+    "_id": "cli_0246",
+    "nombre": "Cliente 246",
+    "email": "cliente246@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-08-19T05:11:30"
+  },
+  {
+    "_id": "cli_0247",
+    "nombre": "Cliente 247",
+    "email": "cliente247@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-06-12T19:02:27"
+  },
+  {
+    "_id": "cli_0248",
+    "nombre": "Cliente 248",
+    "email": "cliente248@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-07-20T05:24:10"
+  },
+  {
+    "_id": "cli_0249",
+    "nombre": "Cliente 249",
+    "email": "cliente249@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-12-23T22:23:46"
+  },
+  {
+    "_id": "cli_0250",
+    "nombre": "Cliente 250",
+    "email": "cliente250@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-11-30T09:24:02"
+  },
+  {
+    "_id": "cli_0251",
+    "nombre": "Cliente 251",
+    "email": "cliente251@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-11-11T15:55:25"
+  },
+  {
+    "_id": "cli_0252",
+    "nombre": "Cliente 252",
+    "email": "cliente252@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-06-06T12:08:38"
+  },
+  {
+    "_id": "cli_0253",
+    "nombre": "Cliente 253",
+    "email": "cliente253@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-02-27T16:50:50"
+  },
+  {
+    "_id": "cli_0254",
+    "nombre": "Cliente 254",
+    "email": "cliente254@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-07-14T16:04:02"
+  },
+  {
+    "_id": "cli_0255",
+    "nombre": "Cliente 255",
+    "email": "cliente255@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-01-14T18:03:25"
+  },
+  {
+    "_id": "cli_0256",
+    "nombre": "Cliente 256",
+    "email": "cliente256@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-10-29T17:26:19"
+  },
+  {
+    "_id": "cli_0257",
+    "nombre": "Cliente 257",
+    "email": "cliente257@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-01-28T04:30:23"
+  },
+  {
+    "_id": "cli_0258",
+    "nombre": "Cliente 258",
+    "email": "cliente258@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-06-18T22:38:14"
+  },
+  {
+    "_id": "cli_0259",
+    "nombre": "Cliente 259",
+    "email": "cliente259@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-10-31T08:40:10"
+  },
+  {
+    "_id": "cli_0260",
+    "nombre": "Cliente 260",
+    "email": "cliente260@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-05-10T07:29:27"
+  },
+  {
+    "_id": "cli_0261",
+    "nombre": "Cliente 261",
+    "email": "cliente261@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-11-25T21:12:31"
+  },
+  {
+    "_id": "cli_0262",
+    "nombre": "Cliente 262",
+    "email": "cliente262@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-06-06T22:55:30"
+  },
+  {
+    "_id": "cli_0263",
+    "nombre": "Cliente 263",
+    "email": "cliente263@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-11-12T06:46:09"
+  },
+  {
+    "_id": "cli_0264",
+    "nombre": "Cliente 264",
+    "email": "cliente264@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-11-22T10:14:38"
+  },
+  {
+    "_id": "cli_0265",
+    "nombre": "Cliente 265",
+    "email": "cliente265@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-10-21T01:51:35"
+  },
+  {
+    "_id": "cli_0266",
+    "nombre": "Cliente 266",
+    "email": "cliente266@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-10-21T07:59:02"
+  },
+  {
+    "_id": "cli_0267",
+    "nombre": "Cliente 267",
+    "email": "cliente267@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-07-10T10:42:00"
+  },
+  {
+    "_id": "cli_0268",
+    "nombre": "Cliente 268",
+    "email": "cliente268@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-08-28T04:04:45"
+  },
+  {
+    "_id": "cli_0269",
+    "nombre": "Cliente 269",
+    "email": "cliente269@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-09-22T23:15:06"
+  },
+  {
+    "_id": "cli_0270",
+    "nombre": "Cliente 270",
+    "email": "cliente270@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-05-27T02:20:42"
+  },
+  {
+    "_id": "cli_0271",
+    "nombre": "Cliente 271",
+    "email": "cliente271@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-05-09T07:57:56"
+  },
+  {
+    "_id": "cli_0272",
+    "nombre": "Cliente 272",
+    "email": "cliente272@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-08-09T17:42:06"
+  },
+  {
+    "_id": "cli_0273",
+    "nombre": "Cliente 273",
+    "email": "cliente273@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-06-30T20:50:50"
+  },
+  {
+    "_id": "cli_0274",
+    "nombre": "Cliente 274",
+    "email": "cliente274@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-03-29T06:24:48"
+  },
+  {
+    "_id": "cli_0275",
+    "nombre": "Cliente 275",
+    "email": "cliente275@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-09-21T04:44:13"
+  },
+  {
+    "_id": "cli_0276",
+    "nombre": "Cliente 276",
+    "email": "cliente276@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-04-25T01:34:52"
+  },
+  {
+    "_id": "cli_0277",
+    "nombre": "Cliente 277",
+    "email": "cliente277@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-09-08T02:32:44"
+  },
+  {
+    "_id": "cli_0278",
+    "nombre": "Cliente 278",
+    "email": "cliente278@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-03-07T15:56:38"
+  },
+  {
+    "_id": "cli_0279",
+    "nombre": "Cliente 279",
+    "email": "cliente279@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-05-02T04:37:29"
+  },
+  {
+    "_id": "cli_0280",
+    "nombre": "Cliente 280",
+    "email": "cliente280@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-09-09T09:31:18"
+  },
+  {
+    "_id": "cli_0281",
+    "nombre": "Cliente 281",
+    "email": "cliente281@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-01-12T09:58:27"
+  },
+  {
+    "_id": "cli_0282",
+    "nombre": "Cliente 282",
+    "email": "cliente282@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-10-08T17:06:15"
+  },
+  {
+    "_id": "cli_0283",
+    "nombre": "Cliente 283",
+    "email": "cliente283@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-07-12T07:07:00"
+  },
+  {
+    "_id": "cli_0284",
+    "nombre": "Cliente 284",
+    "email": "cliente284@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-04-30T14:15:48"
+  },
+  {
+    "_id": "cli_0285",
+    "nombre": "Cliente 285",
+    "email": "cliente285@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-01-28T02:55:37"
+  },
+  {
+    "_id": "cli_0286",
+    "nombre": "Cliente 286",
+    "email": "cliente286@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-02-05T05:22:49"
+  },
+  {
+    "_id": "cli_0287",
+    "nombre": "Cliente 287",
+    "email": "cliente287@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-09-11T09:19:25"
+  },
+  {
+    "_id": "cli_0288",
+    "nombre": "Cliente 288",
+    "email": "cliente288@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-06-17T03:16:31"
+  },
+  {
+    "_id": "cli_0289",
+    "nombre": "Cliente 289",
+    "email": "cliente289@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-11-09T16:23:59"
+  },
+  {
+    "_id": "cli_0290",
+    "nombre": "Cliente 290",
+    "email": "cliente290@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-12-03T17:28:07"
+  },
+  {
+    "_id": "cli_0291",
+    "nombre": "Cliente 291",
+    "email": "cliente291@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-01-28T21:09:01"
+  },
+  {
+    "_id": "cli_0292",
+    "nombre": "Cliente 292",
+    "email": "cliente292@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-02-27T21:26:10"
+  },
+  {
+    "_id": "cli_0293",
+    "nombre": "Cliente 293",
+    "email": "cliente293@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-03-31T00:21:39"
+  },
+  {
+    "_id": "cli_0294",
+    "nombre": "Cliente 294",
+    "email": "cliente294@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-03-14T04:11:55"
+  },
+  {
+    "_id": "cli_0295",
+    "nombre": "Cliente 295",
+    "email": "cliente295@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-08-08T18:15:26"
+  },
+  {
+    "_id": "cli_0296",
+    "nombre": "Cliente 296",
+    "email": "cliente296@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-01-16T17:53:32"
+  },
+  {
+    "_id": "cli_0297",
+    "nombre": "Cliente 297",
+    "email": "cliente297@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-09-09T03:35:21"
+  },
+  {
+    "_id": "cli_0298",
+    "nombre": "Cliente 298",
+    "email": "cliente298@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-07-28T12:26:55"
+  },
+  {
+    "_id": "cli_0299",
+    "nombre": "Cliente 299",
+    "email": "cliente299@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-12-30T03:13:50"
+  },
+  {
+    "_id": "cli_0300",
+    "nombre": "Cliente 300",
+    "email": "cliente300@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-03-13T04:53:12"
+  },
+  {
+    "_id": "cli_0301",
+    "nombre": "Cliente 301",
+    "email": "cliente301@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-03-01T20:20:20"
+  },
+  {
+    "_id": "cli_0302",
+    "nombre": "Cliente 302",
+    "email": "cliente302@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-12-22T19:22:05"
+  },
+  {
+    "_id": "cli_0303",
+    "nombre": "Cliente 303",
+    "email": "cliente303@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-07-23T20:23:20"
+  },
+  {
+    "_id": "cli_0304",
+    "nombre": "Cliente 304",
+    "email": "cliente304@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-05-28T05:39:07"
+  },
+  {
+    "_id": "cli_0305",
+    "nombre": "Cliente 305",
+    "email": "cliente305@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-06-21T05:03:38"
+  },
+  {
+    "_id": "cli_0306",
+    "nombre": "Cliente 306",
+    "email": "cliente306@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-11-21T03:26:39"
+  },
+  {
+    "_id": "cli_0307",
+    "nombre": "Cliente 307",
+    "email": "cliente307@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-07-04T07:18:51"
+  },
+  {
+    "_id": "cli_0308",
+    "nombre": "Cliente 308",
+    "email": "cliente308@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-01-25T04:56:35"
+  },
+  {
+    "_id": "cli_0309",
+    "nombre": "Cliente 309",
+    "email": "cliente309@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-04-08T16:24:12"
+  },
+  {
+    "_id": "cli_0310",
+    "nombre": "Cliente 310",
+    "email": "cliente310@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-02-17T01:36:23"
+  },
+  {
+    "_id": "cli_0311",
+    "nombre": "Cliente 311",
+    "email": "cliente311@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-05-03T17:08:15"
+  },
+  {
+    "_id": "cli_0312",
+    "nombre": "Cliente 312",
+    "email": "cliente312@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-06-10T14:59:30"
+  },
+  {
+    "_id": "cli_0313",
+    "nombre": "Cliente 313",
+    "email": "cliente313@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-05-15T11:21:11"
+  },
+  {
+    "_id": "cli_0314",
+    "nombre": "Cliente 314",
+    "email": "cliente314@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-03-01T20:53:06"
+  },
+  {
+    "_id": "cli_0315",
+    "nombre": "Cliente 315",
+    "email": "cliente315@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-07-11T11:22:32"
+  },
+  {
+    "_id": "cli_0316",
+    "nombre": "Cliente 316",
+    "email": "cliente316@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-01-16T01:29:56"
+  },
+  {
+    "_id": "cli_0317",
+    "nombre": "Cliente 317",
+    "email": "cliente317@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-04-21T09:11:20"
+  },
+  {
+    "_id": "cli_0318",
+    "nombre": "Cliente 318",
+    "email": "cliente318@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-07-07T01:17:40"
+  },
+  {
+    "_id": "cli_0319",
+    "nombre": "Cliente 319",
+    "email": "cliente319@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-09-28T09:42:13"
+  },
+  {
+    "_id": "cli_0320",
+    "nombre": "Cliente 320",
+    "email": "cliente320@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-04-22T09:24:57"
+  },
+  {
+    "_id": "cli_0321",
+    "nombre": "Cliente 321",
+    "email": "cliente321@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-06-29T18:13:18"
+  },
+  {
+    "_id": "cli_0322",
+    "nombre": "Cliente 322",
+    "email": "cliente322@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-03-03T08:16:52"
+  },
+  {
+    "_id": "cli_0323",
+    "nombre": "Cliente 323",
+    "email": "cliente323@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-08-25T22:51:47"
+  },
+  {
+    "_id": "cli_0324",
+    "nombre": "Cliente 324",
+    "email": "cliente324@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-10-26T12:35:16"
+  },
+  {
+    "_id": "cli_0325",
+    "nombre": "Cliente 325",
+    "email": "cliente325@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-06-27T06:37:25"
+  },
+  {
+    "_id": "cli_0326",
+    "nombre": "Cliente 326",
+    "email": "cliente326@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-06-11T22:31:27"
+  },
+  {
+    "_id": "cli_0327",
+    "nombre": "Cliente 327",
+    "email": "cliente327@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-10-03T21:06:02"
+  },
+  {
+    "_id": "cli_0328",
+    "nombre": "Cliente 328",
+    "email": "cliente328@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-01-23T22:26:43"
+  },
+  {
+    "_id": "cli_0329",
+    "nombre": "Cliente 329",
+    "email": "cliente329@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-09-26T09:07:40"
+  },
+  {
+    "_id": "cli_0330",
+    "nombre": "Cliente 330",
+    "email": "cliente330@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-01-08T14:21:25"
+  },
+  {
+    "_id": "cli_0331",
+    "nombre": "Cliente 331",
+    "email": "cliente331@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-06-12T01:29:38"
+  },
+  {
+    "_id": "cli_0332",
+    "nombre": "Cliente 332",
+    "email": "cliente332@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-02-14T04:36:37"
+  },
+  {
+    "_id": "cli_0333",
+    "nombre": "Cliente 333",
+    "email": "cliente333@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-03-28T17:58:34"
+  },
+  {
+    "_id": "cli_0334",
+    "nombre": "Cliente 334",
+    "email": "cliente334@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-01-10T18:03:21"
+  },
+  {
+    "_id": "cli_0335",
+    "nombre": "Cliente 335",
+    "email": "cliente335@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-06-02T13:42:44"
+  },
+  {
+    "_id": "cli_0336",
+    "nombre": "Cliente 336",
+    "email": "cliente336@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-06-02T15:52:27"
+  },
+  {
+    "_id": "cli_0337",
+    "nombre": "Cliente 337",
+    "email": "cliente337@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-04-21T07:50:09"
+  },
+  {
+    "_id": "cli_0338",
+    "nombre": "Cliente 338",
+    "email": "cliente338@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-01-04T16:00:12"
+  },
+  {
+    "_id": "cli_0339",
+    "nombre": "Cliente 339",
+    "email": "cliente339@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-04-06T16:51:34"
+  },
+  {
+    "_id": "cli_0340",
+    "nombre": "Cliente 340",
+    "email": "cliente340@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-07-19T15:40:42"
+  },
+  {
+    "_id": "cli_0341",
+    "nombre": "Cliente 341",
+    "email": "cliente341@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-04-29T12:07:35"
+  },
+  {
+    "_id": "cli_0342",
+    "nombre": "Cliente 342",
+    "email": "cliente342@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-06-07T15:27:25"
+  },
+  {
+    "_id": "cli_0343",
+    "nombre": "Cliente 343",
+    "email": "cliente343@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-05-24T17:56:36"
+  },
+  {
+    "_id": "cli_0344",
+    "nombre": "Cliente 344",
+    "email": "cliente344@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-07-03T07:48:57"
+  },
+  {
+    "_id": "cli_0345",
+    "nombre": "Cliente 345",
+    "email": "cliente345@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-03-31T05:29:35"
+  },
+  {
+    "_id": "cli_0346",
+    "nombre": "Cliente 346",
+    "email": "cliente346@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-05-04T02:25:49"
+  },
+  {
+    "_id": "cli_0347",
+    "nombre": "Cliente 347",
+    "email": "cliente347@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-04-02T06:31:38"
+  },
+  {
+    "_id": "cli_0348",
+    "nombre": "Cliente 348",
+    "email": "cliente348@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-04-01T03:35:12"
+  },
+  {
+    "_id": "cli_0349",
+    "nombre": "Cliente 349",
+    "email": "cliente349@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-03-16T13:56:43"
+  },
+  {
+    "_id": "cli_0350",
+    "nombre": "Cliente 350",
+    "email": "cliente350@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-08-12T15:25:38"
+  },
+  {
+    "_id": "cli_0351",
+    "nombre": "Cliente 351",
+    "email": "cliente351@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-12-27T14:17:03"
+  },
+  {
+    "_id": "cli_0352",
+    "nombre": "Cliente 352",
+    "email": "cliente352@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-06-09T21:07:53"
+  },
+  {
+    "_id": "cli_0353",
+    "nombre": "Cliente 353",
+    "email": "cliente353@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-06-04T11:45:17"
+  },
+  {
+    "_id": "cli_0354",
+    "nombre": "Cliente 354",
+    "email": "cliente354@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-05-19T15:30:15"
+  },
+  {
+    "_id": "cli_0355",
+    "nombre": "Cliente 355",
+    "email": "cliente355@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-09-12T09:55:51"
+  },
+  {
+    "_id": "cli_0356",
+    "nombre": "Cliente 356",
+    "email": "cliente356@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-02-04T14:47:11"
+  },
+  {
+    "_id": "cli_0357",
+    "nombre": "Cliente 357",
+    "email": "cliente357@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-07-26T15:17:04"
+  },
+  {
+    "_id": "cli_0358",
+    "nombre": "Cliente 358",
+    "email": "cliente358@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-10-21T10:40:04"
+  },
+  {
+    "_id": "cli_0359",
+    "nombre": "Cliente 359",
+    "email": "cliente359@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-09-09T14:12:20"
+  },
+  {
+    "_id": "cli_0360",
+    "nombre": "Cliente 360",
+    "email": "cliente360@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-09-26T20:59:51"
+  },
+  {
+    "_id": "cli_0361",
+    "nombre": "Cliente 361",
+    "email": "cliente361@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-01-13T14:45:52"
+  },
+  {
+    "_id": "cli_0362",
+    "nombre": "Cliente 362",
+    "email": "cliente362@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-10-25T13:36:20"
+  },
+  {
+    "_id": "cli_0363",
+    "nombre": "Cliente 363",
+    "email": "cliente363@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-11-17T13:50:10"
+  },
+  {
+    "_id": "cli_0364",
+    "nombre": "Cliente 364",
+    "email": "cliente364@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-02-26T02:47:16"
+  },
+  {
+    "_id": "cli_0365",
+    "nombre": "Cliente 365",
+    "email": "cliente365@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-01-07T11:17:34"
+  },
+  {
+    "_id": "cli_0366",
+    "nombre": "Cliente 366",
+    "email": "cliente366@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-02-24T13:38:34"
+  },
+  {
+    "_id": "cli_0367",
+    "nombre": "Cliente 367",
+    "email": "cliente367@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-09-24T03:52:49"
+  },
+  {
+    "_id": "cli_0368",
+    "nombre": "Cliente 368",
+    "email": "cliente368@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-09-25T08:20:08"
+  },
+  {
+    "_id": "cli_0369",
+    "nombre": "Cliente 369",
+    "email": "cliente369@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-08-28T03:53:59"
+  },
+  {
+    "_id": "cli_0370",
+    "nombre": "Cliente 370",
+    "email": "cliente370@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-05-19T09:15:09"
+  },
+  {
+    "_id": "cli_0371",
+    "nombre": "Cliente 371",
+    "email": "cliente371@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-06-30T20:42:09"
+  },
+  {
+    "_id": "cli_0372",
+    "nombre": "Cliente 372",
+    "email": "cliente372@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-03-07T06:54:23"
+  },
+  {
+    "_id": "cli_0373",
+    "nombre": "Cliente 373",
+    "email": "cliente373@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-01-27T06:31:24"
+  },
+  {
+    "_id": "cli_0374",
+    "nombre": "Cliente 374",
+    "email": "cliente374@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-05-23T19:13:50"
+  },
+  {
+    "_id": "cli_0375",
+    "nombre": "Cliente 375",
+    "email": "cliente375@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-11-12T04:38:54"
+  },
+  {
+    "_id": "cli_0376",
+    "nombre": "Cliente 376",
+    "email": "cliente376@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-01-25T11:26:52"
+  },
+  {
+    "_id": "cli_0377",
+    "nombre": "Cliente 377",
+    "email": "cliente377@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-07-15T18:55:40"
+  },
+  {
+    "_id": "cli_0378",
+    "nombre": "Cliente 378",
+    "email": "cliente378@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-08-13T15:40:31"
+  },
+  {
+    "_id": "cli_0379",
+    "nombre": "Cliente 379",
+    "email": "cliente379@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-11-06T13:55:06"
+  },
+  {
+    "_id": "cli_0380",
+    "nombre": "Cliente 380",
+    "email": "cliente380@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-06-19T04:23:20"
+  },
+  {
+    "_id": "cli_0381",
+    "nombre": "Cliente 381",
+    "email": "cliente381@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-09-09T20:07:06"
+  },
+  {
+    "_id": "cli_0382",
+    "nombre": "Cliente 382",
+    "email": "cliente382@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-07-11T15:59:31"
+  },
+  {
+    "_id": "cli_0383",
+    "nombre": "Cliente 383",
+    "email": "cliente383@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-03-29T09:43:16"
+  },
+  {
+    "_id": "cli_0384",
+    "nombre": "Cliente 384",
+    "email": "cliente384@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-08-18T11:20:38"
+  },
+  {
+    "_id": "cli_0385",
+    "nombre": "Cliente 385",
+    "email": "cliente385@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-07-17T01:31:43"
+  },
+  {
+    "_id": "cli_0386",
+    "nombre": "Cliente 386",
+    "email": "cliente386@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-05-23T14:26:48"
+  },
+  {
+    "_id": "cli_0387",
+    "nombre": "Cliente 387",
+    "email": "cliente387@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-04-24T06:56:52"
+  },
+  {
+    "_id": "cli_0388",
+    "nombre": "Cliente 388",
+    "email": "cliente388@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-07-21T03:37:46"
+  },
+  {
+    "_id": "cli_0389",
+    "nombre": "Cliente 389",
+    "email": "cliente389@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-01-31T10:56:20"
+  },
+  {
+    "_id": "cli_0390",
+    "nombre": "Cliente 390",
+    "email": "cliente390@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-04-04T06:18:37"
+  },
+  {
+    "_id": "cli_0391",
+    "nombre": "Cliente 391",
+    "email": "cliente391@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-11-13T13:40:03"
+  },
+  {
+    "_id": "cli_0392",
+    "nombre": "Cliente 392",
+    "email": "cliente392@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-04-13T18:25:00"
+  },
+  {
+    "_id": "cli_0393",
+    "nombre": "Cliente 393",
+    "email": "cliente393@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-04-14T05:17:55"
+  },
+  {
+    "_id": "cli_0394",
+    "nombre": "Cliente 394",
+    "email": "cliente394@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-08-15T19:41:49"
+  },
+  {
+    "_id": "cli_0395",
+    "nombre": "Cliente 395",
+    "email": "cliente395@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-05-09T19:29:31"
+  },
+  {
+    "_id": "cli_0396",
+    "nombre": "Cliente 396",
+    "email": "cliente396@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-02-25T04:58:06"
+  },
+  {
+    "_id": "cli_0397",
+    "nombre": "Cliente 397",
+    "email": "cliente397@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-11-06T17:54:22"
+  },
+  {
+    "_id": "cli_0398",
+    "nombre": "Cliente 398",
+    "email": "cliente398@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-08-16T04:20:31"
+  },
+  {
+    "_id": "cli_0399",
+    "nombre": "Cliente 399",
+    "email": "cliente399@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-09-29T22:42:33"
+  },
+  {
+    "_id": "cli_0400",
+    "nombre": "Cliente 400",
+    "email": "cliente400@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-10-05T17:46:23"
+  },
+  {
+    "_id": "cli_0401",
+    "nombre": "Cliente 401",
+    "email": "cliente401@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-02-23T11:33:15"
+  },
+  {
+    "_id": "cli_0402",
+    "nombre": "Cliente 402",
+    "email": "cliente402@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-07-21T07:59:06"
+  },
+  {
+    "_id": "cli_0403",
+    "nombre": "Cliente 403",
+    "email": "cliente403@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-06-28T16:17:45"
+  },
+  {
+    "_id": "cli_0404",
+    "nombre": "Cliente 404",
+    "email": "cliente404@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-08-14T00:24:04"
+  },
+  {
+    "_id": "cli_0405",
+    "nombre": "Cliente 405",
+    "email": "cliente405@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-12-12T18:56:30"
+  },
+  {
+    "_id": "cli_0406",
+    "nombre": "Cliente 406",
+    "email": "cliente406@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-07-15T06:48:57"
+  },
+  {
+    "_id": "cli_0407",
+    "nombre": "Cliente 407",
+    "email": "cliente407@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-08-31T11:47:13"
+  },
+  {
+    "_id": "cli_0408",
+    "nombre": "Cliente 408",
+    "email": "cliente408@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-06-23T22:15:47"
+  },
+  {
+    "_id": "cli_0409",
+    "nombre": "Cliente 409",
+    "email": "cliente409@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-07-09T21:35:23"
+  },
+  {
+    "_id": "cli_0410",
+    "nombre": "Cliente 410",
+    "email": "cliente410@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-11-29T18:54:47"
+  },
+  {
+    "_id": "cli_0411",
+    "nombre": "Cliente 411",
+    "email": "cliente411@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-03-03T22:24:30"
+  },
+  {
+    "_id": "cli_0412",
+    "nombre": "Cliente 412",
+    "email": "cliente412@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-08-05T08:31:51"
+  },
+  {
+    "_id": "cli_0413",
+    "nombre": "Cliente 413",
+    "email": "cliente413@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-12-24T07:55:40"
+  },
+  {
+    "_id": "cli_0414",
+    "nombre": "Cliente 414",
+    "email": "cliente414@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-07-07T00:33:07"
+  },
+  {
+    "_id": "cli_0415",
+    "nombre": "Cliente 415",
+    "email": "cliente415@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-09-09T07:22:07"
+  },
+  {
+    "_id": "cli_0416",
+    "nombre": "Cliente 416",
+    "email": "cliente416@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-03-06T16:14:33"
+  },
+  {
+    "_id": "cli_0417",
+    "nombre": "Cliente 417",
+    "email": "cliente417@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-05-01T16:39:06"
+  },
+  {
+    "_id": "cli_0418",
+    "nombre": "Cliente 418",
+    "email": "cliente418@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-01-12T17:42:32"
+  },
+  {
+    "_id": "cli_0419",
+    "nombre": "Cliente 419",
+    "email": "cliente419@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-09-08T05:34:29"
+  },
+  {
+    "_id": "cli_0420",
+    "nombre": "Cliente 420",
+    "email": "cliente420@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-02-15T19:51:57"
+  },
+  {
+    "_id": "cli_0421",
+    "nombre": "Cliente 421",
+    "email": "cliente421@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-07-03T03:27:48"
+  },
+  {
+    "_id": "cli_0422",
+    "nombre": "Cliente 422",
+    "email": "cliente422@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-12-13T23:02:08"
+  },
+  {
+    "_id": "cli_0423",
+    "nombre": "Cliente 423",
+    "email": "cliente423@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-04-04T01:47:03"
+  },
+  {
+    "_id": "cli_0424",
+    "nombre": "Cliente 424",
+    "email": "cliente424@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-09-04T00:27:00"
+  },
+  {
+    "_id": "cli_0425",
+    "nombre": "Cliente 425",
+    "email": "cliente425@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-06-06T05:44:05"
+  },
+  {
+    "_id": "cli_0426",
+    "nombre": "Cliente 426",
+    "email": "cliente426@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-07-25T07:16:06"
+  },
+  {
+    "_id": "cli_0427",
+    "nombre": "Cliente 427",
+    "email": "cliente427@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-06-28T16:59:33"
+  },
+  {
+    "_id": "cli_0428",
+    "nombre": "Cliente 428",
+    "email": "cliente428@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-09-03T09:00:15"
+  },
+  {
+    "_id": "cli_0429",
+    "nombre": "Cliente 429",
+    "email": "cliente429@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-11-06T10:26:58"
+  },
+  {
+    "_id": "cli_0430",
+    "nombre": "Cliente 430",
+    "email": "cliente430@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-10-06T16:36:58"
+  },
+  {
+    "_id": "cli_0431",
+    "nombre": "Cliente 431",
+    "email": "cliente431@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-07-08T07:48:20"
+  },
+  {
+    "_id": "cli_0432",
+    "nombre": "Cliente 432",
+    "email": "cliente432@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-04-02T16:47:50"
+  },
+  {
+    "_id": "cli_0433",
+    "nombre": "Cliente 433",
+    "email": "cliente433@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-06-13T19:19:37"
+  },
+  {
+    "_id": "cli_0434",
+    "nombre": "Cliente 434",
+    "email": "cliente434@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-02-19T23:50:07"
+  },
+  {
+    "_id": "cli_0435",
+    "nombre": "Cliente 435",
+    "email": "cliente435@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-07-16T09:29:04"
+  },
+  {
+    "_id": "cli_0436",
+    "nombre": "Cliente 436",
+    "email": "cliente436@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-03-09T18:44:04"
+  },
+  {
+    "_id": "cli_0437",
+    "nombre": "Cliente 437",
+    "email": "cliente437@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-10-03T09:22:29"
+  },
+  {
+    "_id": "cli_0438",
+    "nombre": "Cliente 438",
+    "email": "cliente438@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-04-06T05:01:49"
+  },
+  {
+    "_id": "cli_0439",
+    "nombre": "Cliente 439",
+    "email": "cliente439@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-02-01T03:22:46"
+  },
+  {
+    "_id": "cli_0440",
+    "nombre": "Cliente 440",
+    "email": "cliente440@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-01-29T16:54:44"
+  },
+  {
+    "_id": "cli_0441",
+    "nombre": "Cliente 441",
+    "email": "cliente441@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-09-27T20:44:49"
+  },
+  {
+    "_id": "cli_0442",
+    "nombre": "Cliente 442",
+    "email": "cliente442@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-05-26T08:59:26"
+  },
+  {
+    "_id": "cli_0443",
+    "nombre": "Cliente 443",
+    "email": "cliente443@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-06-21T11:41:11"
+  },
+  {
+    "_id": "cli_0444",
+    "nombre": "Cliente 444",
+    "email": "cliente444@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-02-20T01:17:19"
+  },
+  {
+    "_id": "cli_0445",
+    "nombre": "Cliente 445",
+    "email": "cliente445@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-12-02T16:37:00"
+  },
+  {
+    "_id": "cli_0446",
+    "nombre": "Cliente 446",
+    "email": "cliente446@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-12-14T11:53:38"
+  },
+  {
+    "_id": "cli_0447",
+    "nombre": "Cliente 447",
+    "email": "cliente447@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-01-05T09:26:21"
+  },
+  {
+    "_id": "cli_0448",
+    "nombre": "Cliente 448",
+    "email": "cliente448@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-09-23T14:26:41"
+  },
+  {
+    "_id": "cli_0449",
+    "nombre": "Cliente 449",
+    "email": "cliente449@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-02-08T06:36:25"
+  },
+  {
+    "_id": "cli_0450",
+    "nombre": "Cliente 450",
+    "email": "cliente450@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-01-05T21:20:48"
+  },
+  {
+    "_id": "cli_0451",
+    "nombre": "Cliente 451",
+    "email": "cliente451@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-12-03T16:28:49"
+  },
+  {
+    "_id": "cli_0452",
+    "nombre": "Cliente 452",
+    "email": "cliente452@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-09-21T15:01:35"
+  },
+  {
+    "_id": "cli_0453",
+    "nombre": "Cliente 453",
+    "email": "cliente453@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-06-04T16:09:06"
+  },
+  {
+    "_id": "cli_0454",
+    "nombre": "Cliente 454",
+    "email": "cliente454@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-03-25T01:07:47"
+  },
+  {
+    "_id": "cli_0455",
+    "nombre": "Cliente 455",
+    "email": "cliente455@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-04-08T10:26:02"
+  },
+  {
+    "_id": "cli_0456",
+    "nombre": "Cliente 456",
+    "email": "cliente456@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-12-16T09:11:53"
+  },
+  {
+    "_id": "cli_0457",
+    "nombre": "Cliente 457",
+    "email": "cliente457@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-09-08T02:32:00"
+  },
+  {
+    "_id": "cli_0458",
+    "nombre": "Cliente 458",
+    "email": "cliente458@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-07-21T08:13:35"
+  },
+  {
+    "_id": "cli_0459",
+    "nombre": "Cliente 459",
+    "email": "cliente459@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-02-26T03:47:44"
+  },
+  {
+    "_id": "cli_0460",
+    "nombre": "Cliente 460",
+    "email": "cliente460@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-01-26T19:17:17"
+  },
+  {
+    "_id": "cli_0461",
+    "nombre": "Cliente 461",
+    "email": "cliente461@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-06-06T05:45:44"
+  },
+  {
+    "_id": "cli_0462",
+    "nombre": "Cliente 462",
+    "email": "cliente462@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-08-20T06:27:37"
+  },
+  {
+    "_id": "cli_0463",
+    "nombre": "Cliente 463",
+    "email": "cliente463@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-03-31T19:18:30"
+  },
+  {
+    "_id": "cli_0464",
+    "nombre": "Cliente 464",
+    "email": "cliente464@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-08-09T15:49:36"
+  },
+  {
+    "_id": "cli_0465",
+    "nombre": "Cliente 465",
+    "email": "cliente465@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-11-13T14:18:11"
+  },
+  {
+    "_id": "cli_0466",
+    "nombre": "Cliente 466",
+    "email": "cliente466@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-09-09T01:13:49"
+  },
+  {
+    "_id": "cli_0467",
+    "nombre": "Cliente 467",
+    "email": "cliente467@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-12-15T03:01:50"
+  },
+  {
+    "_id": "cli_0468",
+    "nombre": "Cliente 468",
+    "email": "cliente468@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-05-03T12:42:40"
+  },
+  {
+    "_id": "cli_0469",
+    "nombre": "Cliente 469",
+    "email": "cliente469@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-08-05T16:57:52"
+  },
+  {
+    "_id": "cli_0470",
+    "nombre": "Cliente 470",
+    "email": "cliente470@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-07-17T23:49:36"
+  },
+  {
+    "_id": "cli_0471",
+    "nombre": "Cliente 471",
+    "email": "cliente471@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-12-07T22:01:51"
+  },
+  {
+    "_id": "cli_0472",
+    "nombre": "Cliente 472",
+    "email": "cliente472@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-03-21T04:07:56"
+  },
+  {
+    "_id": "cli_0473",
+    "nombre": "Cliente 473",
+    "email": "cliente473@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-11-14T19:38:24"
+  },
+  {
+    "_id": "cli_0474",
+    "nombre": "Cliente 474",
+    "email": "cliente474@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-08-18T17:59:19"
+  },
+  {
+    "_id": "cli_0475",
+    "nombre": "Cliente 475",
+    "email": "cliente475@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-01-03T00:42:12"
+  },
+  {
+    "_id": "cli_0476",
+    "nombre": "Cliente 476",
+    "email": "cliente476@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2021-10-14T11:47:04"
+  },
+  {
+    "_id": "cli_0477",
+    "nombre": "Cliente 477",
+    "email": "cliente477@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2024-03-23T00:31:41"
+  },
+  {
+    "_id": "cli_0478",
+    "nombre": "Cliente 478",
+    "email": "cliente478@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-07-17T07:09:55"
+  },
+  {
+    "_id": "cli_0479",
+    "nombre": "Cliente 479",
+    "email": "cliente479@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-11-18T03:03:53"
+  },
+  {
+    "_id": "cli_0480",
+    "nombre": "Cliente 480",
+    "email": "cliente480@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-11-28T05:19:39"
+  },
+  {
+    "_id": "cli_0481",
+    "nombre": "Cliente 481",
+    "email": "cliente481@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-11-02T11:27:22"
+  },
+  {
+    "_id": "cli_0482",
+    "nombre": "Cliente 482",
+    "email": "cliente482@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2022-12-22T02:27:10"
+  },
+  {
+    "_id": "cli_0483",
+    "nombre": "Cliente 483",
+    "email": "cliente483@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-10-02T05:05:29"
+  },
+  {
+    "_id": "cli_0484",
+    "nombre": "Cliente 484",
+    "email": "cliente484@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-12-10T06:13:41"
+  },
+  {
+    "_id": "cli_0485",
+    "nombre": "Cliente 485",
+    "email": "cliente485@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-12-17T10:08:24"
+  },
+  {
+    "_id": "cli_0486",
+    "nombre": "Cliente 486",
+    "email": "cliente486@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-07-04T15:44:39"
+  },
+  {
+    "_id": "cli_0487",
+    "nombre": "Cliente 487",
+    "email": "cliente487@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-09-07T01:03:10"
+  },
+  {
+    "_id": "cli_0488",
+    "nombre": "Cliente 488",
+    "email": "cliente488@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2024-07-03T02:09:11"
+  },
+  {
+    "_id": "cli_0489",
+    "nombre": "Cliente 489",
+    "email": "cliente489@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2024-11-29T22:04:50"
+  },
+  {
+    "_id": "cli_0490",
+    "nombre": "Cliente 490",
+    "email": "cliente490@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-06-06T22:50:48"
+  },
+  {
+    "_id": "cli_0491",
+    "nombre": "Cliente 491",
+    "email": "cliente491@example.com",
+    "segmento": "ocasional",
+    "fecha_registro": "2023-06-14T14:41:34"
+  },
+  {
+    "_id": "cli_0492",
+    "nombre": "Cliente 492",
+    "email": "cliente492@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-12-14T17:19:13"
+  },
+  {
+    "_id": "cli_0493",
+    "nombre": "Cliente 493",
+    "email": "cliente493@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-04-15T23:59:00"
+  },
+  {
+    "_id": "cli_0494",
+    "nombre": "Cliente 494",
+    "email": "cliente494@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2022-07-25T12:51:10"
+  },
+  {
+    "_id": "cli_0495",
+    "nombre": "Cliente 495",
+    "email": "cliente495@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2023-02-28T04:40:09"
+  },
+  {
+    "_id": "cli_0496",
+    "nombre": "Cliente 496",
+    "email": "cliente496@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2021-12-25T09:13:20"
+  },
+  {
+    "_id": "cli_0497",
+    "nombre": "Cliente 497",
+    "email": "cliente497@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2022-01-19T18:00:10"
+  },
+  {
+    "_id": "cli_0498",
+    "nombre": "Cliente 498",
+    "email": "cliente498@example.com",
+    "segmento": "regular",
+    "fecha_registro": "2023-03-10T23:09:20"
+  },
+  {
+    "_id": "cli_0499",
+    "nombre": "Cliente 499",
+    "email": "cliente499@example.com",
+    "segmento": "premium",
+    "fecha_registro": "2021-11-18T09:36:52"
+  }
+]

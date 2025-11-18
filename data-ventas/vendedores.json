@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "ven_000",
+    "nombre": "Vendedor 0",
+    "zona": "Poniente",
+    "estado": "inactivo"
+  },
+  {
+    "_id": "ven_001",
+    "nombre": "Vendedor 1",
+    "zona": "Centro",
+    "estado": "inactivo"
+  },
+  {
+    "_id": "ven_002",
+    "nombre": "Vendedor 2",
+    "zona": "Centro",
+    "estado": "inactivo"
+  },
+  {
+    "_id": "ven_003",
+    "nombre": "Vendedor 3",
+    "zona": "Oriente",
+    "estado": "activo"
+  },
+  {
+    "_id": "ven_004",
+    "nombre": "Vendedor 4",
+    "zona": "Norte",
+    "estado": "inactivo"
+  },
+  {
+    "_id": "ven_005",
+    "nombre": "Vendedor 5",
+    "zona": "Centro",
+    "estado": "activo"
+  },
+  {
+    "_id": "ven_006",
+    "nombre": "Vendedor 6",
+    "zona": "Oriente",
+    "estado": "activo"
+  },
+  {
+    "_id": "ven_007",
+    "nombre": "Vendedor 7",
+    "zona": "Sur",
+    "estado": "activo"
+  },
+  {
+    "_id": "ven_008",
+    "nombre": "Vendedor 8",
+    "zona": "Centro",
+    "estado": "inactivo"
+  },
+  {
+    "_id": "ven_009",
+    "nombre": "Vendedor 9",
+    "zona": "Sur",
+    "estado": "inactivo"
+  },
+  {
+    "_id": "ven_010",
+    "nombre": "Vendedor 10",
+    "zona": "Norte",
+    "estado": "inactivo"
+  },
+  {
+    "_id": "ven_011",
+    "nombre": "Vendedor 11",
+    "zona": "Sur",
+    "estado": "inactivo"
+  },
+  {
+    "_id": "ven_012",
+    "nombre": "Vendedor 12",
+    "zona": "Oriente",
+    "estado": "activo"
+  },
+  {
+    "_id": "ven_013",
+    "nombre": "Vendedor 13",
+    "zona": "Sur",
+    "estado": "activo"
+  },
+  {
+    "_id": "ven_014",
+    "nombre": "Vendedor 14",
+    "zona": "Sur",
+    "estado": "inactivo"
+  },
+  {
+    "_id": "ven_015",
+    "nombre": "Vendedor 15",
+    "zona": "Oriente",
+    "estado": "inactivo"
+  },
+  {
+    "_id": "ven_016",
+    "nombre": "Vendedor 16",
+    "zona": "Centro",
+    "estado": "activo"
+  },
+  {
+    "_id": "ven_017",
+    "nombre": "Vendedor 17",
+    "zona": "Norte",
+    "estado": "activo"
+  },
+  {
+    "_id": "ven_018",
+    "nombre": "Vendedor 18",
+    "zona": "Centro",
+    "estado": "inactivo"
+  },
+  {
+    "_id": "ven_019",
+    "nombre": "Vendedor 19",
+    "zona": "Sur",
+    "estado": "activo"
+  }
+]

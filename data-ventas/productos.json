@@ -1,0 +1,1052 @@
+[
+  {
+    "_id": "prod_0000",
+    "nombre": "Producto 0",
+    "categoria": "computador",
+    "precio": 1512,
+    "stock": null
+  },
+  {
+    "_id": "prod_0001",
+    "nombre": "Producto 1",
+    "categoria": "Video",
+    "precio": 470,
+    "stock": 115
+  },
+  {
+    "_id": "prod_0002",
+    "nombre": "Producto 2",
+    "categoria": "Video",
+    "precio": 1570,
+    "stock": null
+  },
+  {
+    "_id": "prod_0003",
+    "nombre": "Producto 3",
+    "categoria": "Accesorios",
+    "precio": 353,
+    "stock": 109
+  },
+  {
+    "_id": "prod_0004",
+    "nombre": "Producto 4",
+    "categoria": "Audio",
+    "precio": 2152,
+    "stock": null
+  },
+  {
+    "_id": "prod_0005",
+    "nombre": "Producto 5",
+    "categoria": "Audio",
+    "precio": 671,
+    "stock": 475
+  },
+  {
+    "_id": "prod_0006",
+    "nombre": "Producto 6",
+    "categoria": "computer",
+    "precio": 1989,
+    "stock": null
+  },
+  {
+    "_id": "prod_0007",
+    "nombre": "Producto 7",
+    "categoria": "Computadores",
+    "precio": 1738,
+    "stock": null
+  },
+  {
+    "_id": "prod_0008",
+    "nombre": "Producto 8",
+    "categoria": "Audio",
+    "precio": 1552,
+    "stock": 394
+  },
+  {
+    "_id": "prod_0009",
+    "nombre": "Producto 9",
+    "categoria": "Audio",
+    "precio": 89,
+    "stock": 404
+  },
+  {
+    "_id": "prod_0010",
+    "nombre": "Producto 10",
+    "categoria": "Computadores",
+    "precio": 2196,
+    "stock": null
+  },
+  {
+    "_id": "prod_0011",
+    "nombre": "Producto 11",
+    "categoria": "computer",
+    "precio": 1007,
+    "stock": null
+  },
+  {
+    "_id": "prod_0012",
+    "nombre": "Producto 12",
+    "categoria": "Audio",
+    "precio": 1740,
+    "stock": null
+  },
+  {
+    "_id": "prod_0013",
+    "nombre": "Producto 13",
+    "categoria": "computer",
+    "precio": 2340,
+    "stock": 411
+  },
+  {
+    "_id": "prod_0014",
+    "nombre": "Producto 14",
+    "categoria": "Video",
+    "precio": 958,
+    "stock": 189
+  },
+  {
+    "_id": "prod_0015",
+    "nombre": "Producto 15",
+    "categoria": "Audio",
+    "precio": 1606,
+    "stock": null
+  },
+  {
+    "_id": "prod_0016",
+    "nombre": "Producto 16",
+    "categoria": "Accesorios",
+    "precio": 2061,
+    "stock": 176
+  },
+  {
+    "_id": "prod_0017",
+    "nombre": "Producto 17",
+    "categoria": "Computadores",
+    "precio": 781,
+    "stock": 149
+  },
+  {
+    "_id": "prod_0018",
+    "nombre": "Producto 18",
+    "categoria": "Audio",
+    "precio": 1026,
+    "stock": 267
+  },
+  {
+    "_id": "prod_0019",
+    "nombre": "Producto 19",
+    "categoria": "computador",
+    "precio": 1917,
+    "stock": null
+  },
+  {
+    "_id": "prod_0020",
+    "nombre": "Producto 20",
+    "categoria": "computer",
+    "precio": 2007,
+    "stock": null
+  },
+  {
+    "_id": "prod_0021",
+    "nombre": "Producto 21",
+    "categoria": "Audio",
+    "precio": 913,
+    "stock": null
+  },
+  {
+    "_id": "prod_0022",
+    "nombre": "Producto 22",
+    "categoria": "Video",
+    "precio": 2052,
+    "stock": null
+  },
+  {
+    "_id": "prod_0023",
+    "nombre": "Producto 23",
+    "categoria": "computer",
+    "precio": 782,
+    "stock": 419
+  },
+  {
+    "_id": "prod_0024",
+    "nombre": "Producto 24",
+    "categoria": "Accesorios",
+    "precio": 170,
+    "stock": 446
+  },
+  {
+    "_id": "prod_0025",
+    "nombre": "Producto 25",
+    "categoria": "Audio",
+    "precio": 270,
+    "stock": 249
+  },
+  {
+    "_id": "prod_0026",
+    "nombre": "Producto 26",
+    "categoria": "computer",
+    "precio": 311,
+    "stock": null
+  },
+  {
+    "_id": "prod_0027",
+    "nombre": "Producto 27",
+    "categoria": "computador",
+    "precio": 1318,
+    "stock": null
+  },
+  {
+    "_id": "prod_0028",
+    "nombre": "Producto 28",
+    "categoria": "Computadores",
+    "precio": 980,
+    "stock": 14
+  },
+  {
+    "_id": "prod_0029",
+    "nombre": "Producto 29",
+    "categoria": "computer",
+    "precio": 1069,
+    "stock": 286
+  },
+  {
+    "_id": "prod_0030",
+    "nombre": "Producto 30",
+    "categoria": "Audio",
+    "precio": 1091,
+    "stock": null
+  },
+  {
+    "_id": "prod_0031",
+    "nombre": "Producto 31",
+    "categoria": "computer",
+    "precio": 1375,
+    "stock": 414
+  },
+  {
+    "_id": "prod_0032",
+    "nombre": "Producto 32",
+    "categoria": "Audio",
+    "precio": 1596,
+    "stock": 69
+  },
+  {
+    "_id": "prod_0033",
+    "nombre": "Producto 33",
+    "categoria": "Video",
+    "precio": 2187,
+    "stock": 182
+  },
+  {
+    "_id": "prod_0034",
+    "nombre": "Producto 34",
+    "categoria": "Audio",
+    "precio": 235,
+    "stock": null
+  },
+  {
+    "_id": "prod_0035",
+    "nombre": "Producto 35",
+    "categoria": "Video",
+    "precio": 1919,
+    "stock": 413
+  },
+  {
+    "_id": "prod_0036",
+    "nombre": "Producto 36",
+    "categoria": "computador",
+    "precio": 347,
+    "stock": null
+  },
+  {
+    "_id": "prod_0037",
+    "nombre": "Producto 37",
+    "categoria": "Audio",
+    "precio": 2424,
+    "stock": 11
+  },
+  {
+    "_id": "prod_0038",
+    "nombre": "Producto 38",
+    "categoria": "Video",
+    "precio": 2350,
+    "stock": null
+  },
+  {
+    "_id": "prod_0039",
+    "nombre": "Producto 39",
+    "categoria": "Computadores",
+    "precio": 935,
+    "stock": 297
+  },
+  {
+    "_id": "prod_0040",
+    "nombre": "Producto 40",
+    "categoria": "computador",
+    "precio": 1972,
+    "stock": 43
+  },
+  {
+    "_id": "prod_0041",
+    "nombre": "Producto 41",
+    "categoria": "Video",
+    "precio": 355,
+    "stock": 28
+  },
+  {
+    "_id": "prod_0042",
+    "nombre": "Producto 42",
+    "categoria": "Accesorios",
+    "precio": 1029,
+    "stock": null
+  },
+  {
+    "_id": "prod_0043",
+    "nombre": "Producto 43",
+    "categoria": "Computadores",
+    "precio": 1426,
+    "stock": 478
+  },
+  {
+    "_id": "prod_0044",
+    "nombre": "Producto 44",
+    "categoria": "Video",
+    "precio": 1286,
+    "stock": 52
+  },
+  {
+    "_id": "prod_0045",
+    "nombre": "Producto 45",
+    "categoria": "computer",
+    "precio": 1226,
+    "stock": null
+  },
+  {
+    "_id": "prod_0046",
+    "nombre": "Producto 46",
+    "categoria": "Video",
+    "precio": 2309,
+    "stock": 208
+  },
+  {
+    "_id": "prod_0047",
+    "nombre": "Producto 47",
+    "categoria": "computer",
+    "precio": 1689,
+    "stock": null
+  },
+  {
+    "_id": "prod_0048",
+    "nombre": "Producto 48",
+    "categoria": "Audio",
+    "precio": 1314,
+    "stock": 220
+  },
+  {
+    "_id": "prod_0049",
+    "nombre": "Producto 49",
+    "categoria": "Accesorios",
+    "precio": 654,
+    "stock": null
+  },
+  {
+    "_id": "prod_0050",
+    "nombre": "Producto 50",
+    "categoria": "Video",
+    "precio": 1688,
+    "stock": 427
+  },
+  {
+    "_id": "prod_0051",
+    "nombre": "Producto 51",
+    "categoria": "Audio",
+    "precio": 957,
+    "stock": 307
+  },
+  {
+    "_id": "prod_0052",
+    "nombre": "Producto 52",
+    "categoria": "Video",
+    "precio": 1893,
+    "stock": 251
+  },
+  {
+    "_id": "prod_0053",
+    "nombre": "Producto 53",
+    "categoria": "computer",
+    "precio": 964,
+    "stock": null
+  },
+  {
+    "_id": "prod_0054",
+    "nombre": "Producto 54",
+    "categoria": "computador",
+    "precio": 657,
+    "stock": null
+  },
+  {
+    "_id": "prod_0055",
+    "nombre": "Producto 55",
+    "categoria": "computer",
+    "precio": 395,
+    "stock": null
+  },
+  {
+    "_id": "prod_0056",
+    "nombre": "Producto 56",
+    "categoria": "Computadores",
+    "precio": 1088,
+    "stock": null
+  },
+  {
+    "_id": "prod_0057",
+    "nombre": "Producto 57",
+    "categoria": "Audio",
+    "precio": 1749,
+    "stock": 251
+  },
+  {
+    "_id": "prod_0058",
+    "nombre": "Producto 58",
+    "categoria": "Audio",
+    "precio": 1127,
+    "stock": 55
+  },
+  {
+    "_id": "prod_0059",
+    "nombre": "Producto 59",
+    "categoria": "computador",
+    "precio": 256,
+    "stock": null
+  },
+  {
+    "_id": "prod_0060",
+    "nombre": "Producto 60",
+    "categoria": "Accesorios",
+    "precio": 272,
+    "stock": 272
+  },
+  {
+    "_id": "prod_0061",
+    "nombre": "Producto 61",
+    "categoria": "Video",
+    "precio": 609,
+    "stock": null
+  },
+  {
+    "_id": "prod_0062",
+    "nombre": "Producto 62",
+    "categoria": "Computadores",
+    "precio": 2041,
+    "stock": 52
+  },
+  {
+    "_id": "prod_0063",
+    "nombre": "Producto 63",
+    "categoria": "computador",
+    "precio": 759,
+    "stock": 397
+  },
+  {
+    "_id": "prod_0064",
+    "nombre": "Producto 64",
+    "categoria": "Computadores",
+    "precio": 821,
+    "stock": 389
+  },
+  {
+    "_id": "prod_0065",
+    "nombre": "Producto 65",
+    "categoria": "computer",
+    "precio": 2400,
+    "stock": null
+  },
+  {
+    "_id": "prod_0066",
+    "nombre": "Producto 66",
+    "categoria": "computer",
+    "precio": 739,
+    "stock": null
+  },
+  {
+    "_id": "prod_0067",
+    "nombre": "Producto 67",
+    "categoria": "Video",
+    "precio": 838,
+    "stock": null
+  },
+  {
+    "_id": "prod_0068",
+    "nombre": "Producto 68",
+    "categoria": "computer",
+    "precio": 204,
+    "stock": 440
+  },
+  {
+    "_id": "prod_0069",
+    "nombre": "Producto 69",
+    "categoria": "computador",
+    "precio": 1851,
+    "stock": null
+  },
+  {
+    "_id": "prod_0070",
+    "nombre": "Producto 70",
+    "categoria": "Video",
+    "precio": 1738,
+    "stock": 172
+  },
+  {
+    "_id": "prod_0071",
+    "nombre": "Producto 71",
+    "categoria": "computer",
+    "precio": 1761,
+    "stock": 214
+  },
+  {
+    "_id": "prod_0072",
+    "nombre": "Producto 72",
+    "categoria": "computador",
+    "precio": 793,
+    "stock": null
+  },
+  {
+    "_id": "prod_0073",
+    "nombre": "Producto 73",
+    "categoria": "Audio",
+    "precio": 30,
+    "stock": null
+  },
+  {
+    "_id": "prod_0074",
+    "nombre": "Producto 74",
+    "categoria": "Video",
+    "precio": 2042,
+    "stock": null
+  },
+  {
+    "_id": "prod_0075",
+    "nombre": "Producto 75",
+    "categoria": "computer",
+    "precio": 2011,
+    "stock": 433
+  },
+  {
+    "_id": "prod_0076",
+    "nombre": "Producto 76",
+    "categoria": "Video",
+    "precio": 1055,
+    "stock": null
+  },
+  {
+    "_id": "prod_0077",
+    "nombre": "Producto 77",
+    "categoria": "computer",
+    "precio": 1721,
+    "stock": null
+  },
+  {
+    "_id": "prod_0078",
+    "nombre": "Producto 78",
+    "categoria": "computador",
+    "precio": 174,
+    "stock": null
+  },
+  {
+    "_id": "prod_0079",
+    "nombre": "Producto 79",
+    "categoria": "computador",
+    "precio": 409,
+    "stock": null
+  },
+  {
+    "_id": "prod_0080",
+    "nombre": "Producto 80",
+    "categoria": "computer",
+    "precio": 1278,
+    "stock": null
+  },
+  {
+    "_id": "prod_0081",
+    "nombre": "Producto 81",
+    "categoria": "computer",
+    "precio": 503,
+    "stock": null
+  },
+  {
+    "_id": "prod_0082",
+    "nombre": "Producto 82",
+    "categoria": "computador",
+    "precio": 1142,
+    "stock": null
+  },
+  {
+    "_id": "prod_0083",
+    "nombre": "Producto 83",
+    "categoria": "computer",
+    "precio": 2329,
+    "stock": null
+  },
+  {
+    "_id": "prod_0084",
+    "nombre": "Producto 84",
+    "categoria": "Audio",
+    "precio": 608,
+    "stock": 400
+  },
+  {
+    "_id": "prod_0085",
+    "nombre": "Producto 85",
+    "categoria": "Computadores",
+    "precio": 2122,
+    "stock": null
+  },
+  {
+    "_id": "prod_0086",
+    "nombre": "Producto 86",
+    "categoria": "Audio",
+    "precio": 2479,
+    "stock": 455
+  },
+  {
+    "_id": "prod_0087",
+    "nombre": "Producto 87",
+    "categoria": "Accesorios",
+    "precio": 2499,
+    "stock": null
+  },
+  {
+    "_id": "prod_0088",
+    "nombre": "Producto 88",
+    "categoria": "Accesorios",
+    "precio": 1027,
+    "stock": null
+  },
+  {
+    "_id": "prod_0089",
+    "nombre": "Producto 89",
+    "categoria": "computer",
+    "precio": 2142,
+    "stock": 144
+  },
+  {
+    "_id": "prod_0090",
+    "nombre": "Producto 90",
+    "categoria": "Video",
+    "precio": 2140,
+    "stock": 118
+  },
+  {
+    "_id": "prod_0091",
+    "nombre": "Producto 91",
+    "categoria": "computador",
+    "precio": 155,
+    "stock": null
+  },
+  {
+    "_id": "prod_0092",
+    "nombre": "Producto 92",
+    "categoria": "Accesorios",
+    "precio": 528,
+    "stock": 336
+  },
+  {
+    "_id": "prod_0093",
+    "nombre": "Producto 93",
+    "categoria": "Video",
+    "precio": 2259,
+    "stock": null
+  },
+  {
+    "_id": "prod_0094",
+    "nombre": "Producto 94",
+    "categoria": "computador",
+    "precio": 626,
+    "stock": 44
+  },
+  {
+    "_id": "prod_0095",
+    "nombre": "Producto 95",
+    "categoria": "computer",
+    "precio": 1742,
+    "stock": null
+  },
+  {
+    "_id": "prod_0096",
+    "nombre": "Producto 96",
+    "categoria": "computer",
+    "precio": 1384,
+    "stock": 59
+  },
+  {
+    "_id": "prod_0097",
+    "nombre": "Producto 97",
+    "categoria": "Accesorios",
+    "precio": 1343,
+    "stock": 230
+  },
+  {
+    "_id": "prod_0098",
+    "nombre": "Producto 98",
+    "categoria": "Audio",
+    "precio": 587,
+    "stock": 189
+  },
+  {
+    "_id": "prod_0099",
+    "nombre": "Producto 99",
+    "categoria": "computer",
+    "precio": 750,
+    "stock": 477
+  },
+  {
+    "_id": "prod_0100",
+    "nombre": "Producto 100",
+    "categoria": "Audio",
+    "precio": 645,
+    "stock": null
+  },
+  {
+    "_id": "prod_0101",
+    "nombre": "Producto 101",
+    "categoria": "computador",
+    "precio": 665,
+    "stock": null
+  },
+  {
+    "_id": "prod_0102",
+    "nombre": "Producto 102",
+    "categoria": "Video",
+    "precio": 877,
+    "stock": null
+  },
+  {
+    "_id": "prod_0103",
+    "nombre": "Producto 103",
+    "categoria": "computador",
+    "precio": 1185,
+    "stock": null
+  },
+  {
+    "_id": "prod_0104",
+    "nombre": "Producto 104",
+    "categoria": "computador",
+    "precio": 2457,
+    "stock": null
+  },
+  {
+    "_id": "prod_0105",
+    "nombre": "Producto 105",
+    "categoria": "Video",
+    "precio": 1728,
+    "stock": 70
+  },
+  {
+    "_id": "prod_0106",
+    "nombre": "Producto 106",
+    "categoria": "computador",
+    "precio": 1241,
+    "stock": null
+  },
+  {
+    "_id": "prod_0107",
+    "nombre": "Producto 107",
+    "categoria": "Accesorios",
+    "precio": 956,
+    "stock": null
+  },
+  {
+    "_id": "prod_0108",
+    "nombre": "Producto 108",
+    "categoria": "computador",
+    "precio": 933,
+    "stock": 296
+  },
+  {
+    "_id": "prod_0109",
+    "nombre": "Producto 109",
+    "categoria": "Accesorios",
+    "precio": 1872,
+    "stock": 160
+  },
+  {
+    "_id": "prod_0110",
+    "nombre": "Producto 110",
+    "categoria": "Video",
+    "precio": 2139,
+    "stock": 473
+  },
+  {
+    "_id": "prod_0111",
+    "nombre": "Producto 111",
+    "categoria": "Computadores",
+    "precio": 549,
+    "stock": null
+  },
+  {
+    "_id": "prod_0112",
+    "nombre": "Producto 112",
+    "categoria": "computer",
+    "precio": 75,
+    "stock": null
+  },
+  {
+    "_id": "prod_0113",
+    "nombre": "Producto 113",
+    "categoria": "Accesorios",
+    "precio": 735,
+    "stock": null
+  },
+  {
+    "_id": "prod_0114",
+    "nombre": "Producto 114",
+    "categoria": "Computadores",
+    "precio": 1841,
+    "stock": null
+  },
+  {
+    "_id": "prod_0115",
+    "nombre": "Producto 115",
+    "categoria": "Accesorios",
+    "precio": 2449,
+    "stock": 102
+  },
+  {
+    "_id": "prod_0116",
+    "nombre": "Producto 116",
+    "categoria": "computador",
+    "precio": 1845,
+    "stock": null
+  },
+  {
+    "_id": "prod_0117",
+    "nombre": "Producto 117",
+    "categoria": "Audio",
+    "precio": 634,
+    "stock": null
+  },
+  {
+    "_id": "prod_0118",
+    "nombre": "Producto 118",
+    "categoria": "computador",
+    "precio": 1292,
+    "stock": null
+  },
+  {
+    "_id": "prod_0119",
+    "nombre": "Producto 119",
+    "categoria": "computer",
+    "precio": 201,
+    "stock": null
+  },
+  {
+    "_id": "prod_0120",
+    "nombre": "Producto 120",
+    "categoria": "computador",
+    "precio": 545,
+    "stock": 303
+  },
+  {
+    "_id": "prod_0121",
+    "nombre": "Producto 121",
+    "categoria": "computador",
+    "precio": 1965,
+    "stock": 494
+  },
+  {
+    "_id": "prod_0122",
+    "nombre": "Producto 122",
+    "categoria": "Accesorios",
+    "precio": 1100,
+    "stock": 319
+  },
+  {
+    "_id": "prod_0123",
+    "nombre": "Producto 123",
+    "categoria": "Accesorios",
+    "precio": 876,
+    "stock": 165
+  },
+  {
+    "_id": "prod_0124",
+    "nombre": "Producto 124",
+    "categoria": "computer",
+    "precio": 303,
+    "stock": 449
+  },
+  {
+    "_id": "prod_0125",
+    "nombre": "Producto 125",
+    "categoria": "Accesorios",
+    "precio": 929,
+    "stock": 344
+  },
+  {
+    "_id": "prod_0126",
+    "nombre": "Producto 126",
+    "categoria": "Video",
+    "precio": 2338,
+    "stock": null
+  },
+  {
+    "_id": "prod_0127",
+    "nombre": "Producto 127",
+    "categoria": "Audio",
+    "precio": 1447,
+    "stock": null
+  },
+  {
+    "_id": "prod_0128",
+    "nombre": "Producto 128",
+    "categoria": "computer",
+    "precio": 324,
+    "stock": null
+  },
+  {
+    "_id": "prod_0129",
+    "nombre": "Producto 129",
+    "categoria": "Video",
+    "precio": 1267,
+    "stock": 457
+  },
+  {
+    "_id": "prod_0130",
+    "nombre": "Producto 130",
+    "categoria": "Computadores",
+    "precio": 1421,
+    "stock": null
+  },
+  {
+    "_id": "prod_0131",
+    "nombre": "Producto 131",
+    "categoria": "Video",
+    "precio": 1894,
+    "stock": 455
+  },
+  {
+    "_id": "prod_0132",
+    "nombre": "Producto 132",
+    "categoria": "Computadores",
+    "precio": 1057,
+    "stock": null
+  },
+  {
+    "_id": "prod_0133",
+    "nombre": "Producto 133",
+    "categoria": "Accesorios",
+    "precio": 540,
+    "stock": 0
+  },
+  {
+    "_id": "prod_0134",
+    "nombre": "Producto 134",
+    "categoria": "computer",
+    "precio": 86,
+    "stock": null
+  },
+  {
+    "_id": "prod_0135",
+    "nombre": "Producto 135",
+    "categoria": "Computadores",
+    "precio": 315,
+    "stock": 357
+  },
+  {
+    "_id": "prod_0136",
+    "nombre": "Producto 136",
+    "categoria": "computer",
+    "precio": 2437,
+    "stock": null
+  },
+  {
+    "_id": "prod_0137",
+    "nombre": "Producto 137",
+    "categoria": "computer",
+    "precio": 342,
+    "stock": null
+  },
+  {
+    "_id": "prod_0138",
+    "nombre": "Producto 138",
+    "categoria": "Accesorios",
+    "precio": 2230,
+    "stock": null
+  },
+  {
+    "_id": "prod_0139",
+    "nombre": "Producto 139",
+    "categoria": "computer",
+    "precio": 2219,
+    "stock": 446
+  },
+  {
+    "_id": "prod_0140",
+    "nombre": "Producto 140",
+    "categoria": "Audio",
+    "precio": 678,
+    "stock": null
+  },
+  {
+    "_id": "prod_0141",
+    "nombre": "Producto 141",
+    "categoria": "Computadores",
+    "precio": 180,
+    "stock": 201
+  },
+  {
+    "_id": "prod_0142",
+    "nombre": "Producto 142",
+    "categoria": "computer",
+    "precio": 1126,
+    "stock": 363
+  },
+  {
+    "_id": "prod_0143",
+    "nombre": "Producto 143",
+    "categoria": "Video",
+    "precio": 1129,
+    "stock": null
+  },
+  {
+    "_id": "prod_0144",
+    "nombre": "Producto 144",
+    "categoria": "Video",
+    "precio": 1312,
+    "stock": null
+  },
+  {
+    "_id": "prod_0145",
+    "nombre": "Producto 145",
+    "categoria": "Accesorios",
+    "precio": 1668,
+    "stock": null
+  },
+  {
+    "_id": "prod_0146",
+    "nombre": "Producto 146",
+    "categoria": "Accesorios",
+    "precio": 822,
+    "stock": 207
+  },
+  {
+    "_id": "prod_0147",
+    "nombre": "Producto 147",
+    "categoria": "computador",
+    "precio": 2451,
+    "stock": 203
+  },
+  {
+    "_id": "prod_0148",
+    "nombre": "Producto 148",
+    "categoria": "Audio",
+    "precio": 557,
+    "stock": 63
+  },
+  {
+    "_id": "prod_0149",
+    "nombre": "Producto 149",
+    "categoria": "Computadores",
+    "precio": 1057,
+    "stock": null
+  }
+]
